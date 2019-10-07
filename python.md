@@ -1,5 +1,5 @@
 # Python
 
 - [Libraries](Libraries)
-- [Code style](Code style)
+- [Good-practices](good-practices)
 - Gotchas
