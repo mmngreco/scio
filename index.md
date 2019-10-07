@@ -3,7 +3,8 @@
 - [python](python)
 - [knowledge management](knowledge-management)
 - [bash](bash)
-- vim
+- [good-practices](good practices)
+- [vim](vim)
 - machine-learning
 - statistics
 - economics
