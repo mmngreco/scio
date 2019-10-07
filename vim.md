@@ -1,0 +1,23 @@
+FAQ's
+
+- How to flip windows in vim? [duplicate] : https://stackoverflow.com/questions/6071266/how-to-flip-windows-in-vim/6071520
+- [Simple Vim session management: Part 1 - DockYard](https://dockyard.com/blog/2018/06/01/simple-vim-session-management-part-1)
+- [rhysd/vim-grammarous: A powerful grammar checker for Vim using LanguageTool.](https://github.com/rhysd/vim-grammarous)
+- [benmills/vimux: vim plugin to interact with tmux](https://github.com/benmills/vimux)
+- [christoomey/vim-tmux-navigator: Seamless navigation between tmux panes and vim splits](https://github.com/christoomey/vim-tmux-navigator)
+- [easymotion/vim-easymotion: Vim motions on speed!](https://github.com/easymotion/vim-easymotion)
+- [Using Markdown in Vim](https://vim.works/2019/03/16/using-markdown-in-vim/)
+- [mhinz/vim-grepper: Helps you win at grep.](https://github.com/mhinz/vim-grepper)
+- [Which lsp plugin should I use? : vim](https://www.reddit.com/r/vim/comments/7lnhrt/which_lsp_plugin_should_i_use/)
+- [reformat in vim for a nice column layout - Stack Overflow](https://stackoverflow.com/questions/1229900/reformat-in-vim-for-a-nice-column-layout)
+- [Using marks | Vim Tips Wiki | FANDOM powered by Wikia](https://vim.fandom.com/wiki/Using_marks)
+- [jhawthorn/fzy: A better fuzzy finder](https://github.com/jhawthorn/fzy)
+- [julienr/vim-cellmode: Vim MATLAB-like cell execution for tmux/ipython](https://github.com/julienr/vim-cellmode)
+- [Vimways ~ Vim and Git](https://vimways.org/2018/vim-and-git/)
+- [Cómo usar Vim desde cero: 1 - Introducción a Vim](https://hipertextual.com/archivo/2014/09/como-usar-vim-1-introduccion-a-vim/)
+- [Vim - Full Stack Python](https://www.fullstackpython.com/vim.html)
+- [rbong/vim-buffest: Edit vim registers/macros and lists as buffers.](https://github.com/rbong/vim-buffest)
+- [Vim Setup for Markdown – Swamp Hogg](https://www.swamphogg.com/2015/vim-setup/)
+- [vim - refresh changed content of file opened in vi(m) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/149209/refresh-changed-content-of-file-opened-in-vim)
+- [How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel](https://castel.dev/post/lecture-notes-1/)
+- [Understand Vim Mappings and Create Your Own Shortcuts!]()
