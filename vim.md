@@ -1,6 +1,6 @@
 FAQ's
 
-- How to flip windows in vim? [duplicate] : https://stackoverflow.com/questions/6071266/how-to-flip-windows-in-vim/6071520
+- [How to flip windows in vim?](https://stackoverflow.com/questions/6071266/how-to-flip-windows-in-vim/6071520)
 - [Simple Vim session management: Part 1 - DockYard](https://dockyard.com/blog/2018/06/01/simple-vim-session-management-part-1)
 - [rhysd/vim-grammarous: A powerful grammar checker for Vim using LanguageTool.](https://github.com/rhysd/vim-grammarous)
 - [benmills/vimux: vim plugin to interact with tmux](https://github.com/benmills/vimux)
@@ -21,3 +21,6 @@ FAQ's
 - [vim - refresh changed content of file opened in vi(m) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/149209/refresh-changed-content-of-file-opened-in-vim)
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel](https://castel.dev/post/lecture-notes-1/)
 - [Understand Vim Mappings and Create Your Own Shortcuts!]()
+- [Problems with conceallevel](https://vi.stackexchange.com/questions/12520/markdown-in-neovim-which-plugin-sets-conceallevel-2)
+
+
