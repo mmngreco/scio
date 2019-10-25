@@ -1,13 +1,13 @@
 # Scio
 
-- [python](python)
-- [knowledge management](knowledge-management)
-- [bash](bash)
-- [good practices](good-practices)
-- [vim](vim)
+- [python](python.md)
+- [knowledge management](knowledge-management.md)
+- [bash](bash.md)
+- [good practices](good-practices.md)
+- [vim](vim.md)
 - machine-learning
 - statistics
 - economics
 - life-style
-- [git](git)
+- [git](git.md)
 
