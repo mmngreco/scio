@@ -4,5 +4,5 @@
 
 This is my personal knowledge database.
 
-- [index](index)
+- [index](index.md)
 
