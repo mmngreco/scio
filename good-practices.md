@@ -22,6 +22,7 @@
 - how do i ask : https://stackoverflow.com/help/how-to-ask
 - minimal, reproducible example : https://stackoverflow.com/help/minimal-reproducible-example
 - Recommender systems : https://github.com/microsoft/recommenders
+- How to be a Programmer : https://github.com/braydie/HowToBeAProgrammer
 
 # Must see pytalks
 

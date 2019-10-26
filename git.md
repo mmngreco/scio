@@ -1,3 +1,3 @@
 # Git
 
-[ssh formats](ssh-formats)
+[ssh formats](ssh-formats.md)
