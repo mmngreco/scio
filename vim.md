@@ -247,3 +247,10 @@ FAQ's
     - lang : Rust
     - name : BurntSushi/ripgrep
     - stars : 14507
+
+- html_url : https://github.com/neoclide/coc.nvim
+    - description : Coc is an intellisense engine for vim8 & neovim.
+    - lang : nvim
+    - name : neoclide/coc.nvim
+    - stars : 6791
+    - tags : autocompletion, language-client, vim, nvim

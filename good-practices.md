@@ -23,8 +23,10 @@
 - minimal, reproducible example : https://stackoverflow.com/help/minimal-reproducible-example
 - Recommender systems : https://github.com/microsoft/recommenders
 - How to be a Programmer : https://github.com/braydie/HowToBeAProgrammer
+- The 12 Factor Microservice, documentation and tools for creating microservices: https://openmicroservices.org , https://github.com/microservices/microservice.guide
 
 # Must see pytalks
 
 - https://realpython.com/must-watch-pycon-talks/
+
 
