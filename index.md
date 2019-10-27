@@ -10,4 +10,6 @@
 - economics
 - life-style
 - [git](git.md)
+- [github-favs](github-favs.md)
+- [problems](problems/README.md)
 
