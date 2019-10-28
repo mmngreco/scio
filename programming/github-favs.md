@@ -6006,9 +6006,12 @@
 	- tags : visualization, plot
 
 - html_url : https://github.com/ResidentMario/geoplot
+    - description : High-level geospatial data visualization library for Python.
     - lang : Python
     - name : ResidentMario/geoplot
     - stars : 688
+    - tags : matplotlib, geospatial, library, visualization, plot
+
 - html_url : https://github.com/kennethreitz/twitter-scraper
     - lang : Python
     - name : kennethreitz/twitter-scraper

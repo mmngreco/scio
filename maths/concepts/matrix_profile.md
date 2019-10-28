@@ -1,5 +1,6 @@
 Implementación del `matrix profile`: es una especie de cross correlation temporal
 para varias ventanas. Merece la pena ecahrle un vistazo.
+
 La implementación esta muy bien conseguida, usan herramientas como `numba` y
 `dask`. Y los papaers parecen interesantes, hay una lista con aplicaciones a
 distintas áreas.

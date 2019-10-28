@@ -1,14 +1,15 @@
 # Courses, Notes, tutorials, learning
 
+- html_url : https://github.com/spiside/pdb-tutorial
+    - lang : Python
+    - name : spiside/pdb-tutorial
+    - stars : 651
+
 - html_url : https://github.com/jvns/pandas-cookbook
     - lang : Jupyter Notebook
     - name : jvns/pandas-cookbook
     - stars : 3768
 
-- html_url : https://github.com/Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
-    - lang : null
-    - name : Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
-    - stars : 4
 
 - html_url : https://github.com/yhat/DataGotham2013
     - lang : Python
@@ -486,8 +487,15 @@
     - stars : 7388
     - tags : docker, examples, labs, swarm
 
-- html_url : https://github.com/spiside/pdb-tutorial
-    - lang : Python
-    - name : spiside/pdb-tutorial
-    - stars : 651
 
+- html_url : https://github.com/Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
+    - lang : null
+    - name : Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
+    - stars : 4
+
+# Games
+
+- regexcrossword : https://regexcrossword.com://regexcrossword.com/
+    - lang : null
+    - name : regexcorssword
+    - tags : game, sudoku, crosswords, regex
