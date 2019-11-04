@@ -487,15 +487,22 @@
     - stars : 7388
     - tags : docker, examples, labs, swarm
 
-
 - html_url : https://github.com/Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
     - lang : null
     - name : Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
     - stars : 4
 
-# Games
+- html_url : https://github.com/OpenSourceEcon/IncomeTrans
+    - lang : Jupyter Notebook
+    - name : OpenSourceEcon/IncomeTrans
+    - stars : 2
 
-- regexcrossword : https://regexcrossword.com://regexcrossword.com/
-    - lang : null
-    - name : regexcorssword
-    - tags : game, sudoku, crosswords, regex
+- html_url : https://github.com/rickecon/IncomeTrans
+    - lang : Jupyter Notebook
+    - name : rickecon/IncomeTrans
+    - stars : 2
+
+- html_url : https://github.com/FanWangEcon/Math4Econ
+    - lang : html
+    - name : FanWangEcon/Math4Econ
+    - stars : 9

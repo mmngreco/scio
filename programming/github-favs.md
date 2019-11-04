@@ -20,12 +20,34 @@
 
 ## Diagrams
 
+- html_url : https://github.com/mermaidjs/mermaid-live-editor
+    - lang : JavaScript
+    - name : mermaidjs/mermaid-live-editor
+    - stars : 506
+    - tags : diagrams, online, editor, markdown, app
+
 - html_url : https://github.com/mermaidjs/mermaid.cli
     - description : Generation of diagrams and flowcharts from text in a similar manner as markdown.
     - lang : JavaScript
     - name : mermaidjs/mermaid.cli
     - stars : 658
     - tags : diagrams, markdown, classdiagram, flowcharts
+
+- html_url : https://github.com/plantuml/plantuml
+    - description : Generate UML diagram from textual description.
+    - lang : Java
+    - name : plantuml/plantuml
+    - stars : 1931
+    - tags : design, uml, diagrams, development
+
+- html_url : https://github.com/plantuml/plantuml-stdlib
+    - description : Contains official Standard Library for PlantUML.
+    - lang : null
+    - name : plantuml/plantuml-stdlib
+    - stars : 35
+    - tags : design, uml, diagrams, development
+
+## Maths
 
 - html_url : https://github.com/JuliaMath/GSL.jl
     - description : Julia wrapper for the GNU Scientific Library (GSL), for Julia v1.0+.
@@ -66,7 +88,7 @@
     - stars : 19
     - tags : cli, python, interface, command-line
 
-## Linter and code analysis
+## Dependencies, Linter and code analysis
 
 - html_url : https://github.com/vintasoftware/python-linters-and-code-analysis
     - description : Python Linters and Code Analysis tools curated list.
@@ -171,14 +193,6 @@
     - stars : 39
     - tags : economics, demand, estimation
 
-- html_url : https://github.com/verybadsoldier/backtrader_plotting
-    - description : Plotting addon for backtrader to support Bokeh (and maybe
-      more).
-    - lang : Python
-    - name : verybadsoldier/backtrader_plotting
-    - stars : 60
-    - tags : backtrader, plot, addon, finance
-
 - html_url : https://github.com/tomopy/tomopy
     - description : TomoPy is an open-source Python package for tomographic
       data processing and image reconstruction.
@@ -186,12 +200,6 @@
     - name : tomopy/tomopy
     - stars : 120
     - tags : tomograpic, data, image, waves
-
-- html_url : https://github.com/mermaidjs/mermaid-live-editor
-    - lang : JavaScript
-    - name : mermaidjs/mermaid-live-editor
-    - stars : 506
-    - tags : diagrams, online, editor, markdown, app
 
 - html_url : https://github.com/jasonstrimpel/volatility-trading
     - description : A complete set of volatility estimators based on Euan
@@ -259,11 +267,6 @@
     - name : mrgodhani/raven-reader
     - stars : 1170
     - tags : reader, web, app
-
-- html_url : https://github.com/robbyrussell/oh-my-zsh
-    - lang : Shell
-    - name : robbyrussell/oh-my-zsh
-    - stars : 88171
 
 - html_url : https://github.com/languagetool-org/languagetool
     - lang : Java
@@ -387,16 +390,6 @@
     - stars : 4419
     - tags : dependencies, management, libraries, packages, development
 
-- html_url : https://github.com/Harlekuin/SimQLe
-    - description : Perfect for no fuss SQL in your Python projects. Execute
-      SQL and return simple record sets with named parameters. Manage several
-      connections, and switch between production, development and testing
-      modes.
-    - lang : Python
-    - name : Harlekuin/SimQLe
-    - stars : 25
-    - tags : sql, connection
-
 - html_url : https://github.com/KaTeX/KaTeX
     - description : KaTeX is a fast, easy-to-use JavaScript library for TeX
       math rendering on the web.
@@ -436,20 +429,6 @@
     - name : microservices/microservice.guide
     - stars : 306
     - tags : standar, good-practices, microservices, documentation, 12factor
-
-- html_url : https://github.com/plantuml/plantuml
-    - description : Generate UML diagram from textual description.
-    - lang : Java
-    - name : plantuml/plantuml
-    - stars : 1931
-    - tags : design, uml, diagrams, development
-
-- html_url : https://github.com/plantuml/plantuml-stdlib
-    - description : Contains official Standard Library for PlantUML.
-    - lang : null
-    - name : plantuml/plantuml-stdlib
-    - stars : 35
-    - tags : design, uml, diagrams, development
 
 
 - html_url : https://github.com/tmate-io/tmate
@@ -721,25 +700,10 @@
     - name : gilbitron/Raneto
     - stars : 2005
 
-- html_url : https://github.com/OpenSourceEcon/IncomeTrans
-    - lang : Jupyter Notebook
-    - name : OpenSourceEcon/IncomeTrans
-    - stars : 2
-
-- html_url : https://github.com/rickecon/IncomeTrans
-    - lang : Jupyter Notebook
-    - name : rickecon/IncomeTrans
-    - stars : 2
-
 - html_url : https://github.com/Mckinsey666/bullet
     - lang : Python
     - name : Mckinsey666/bullet
     - stars : 2488
-
-- html_url : https://github.com/FanWangEcon/Math4Econ
-    - lang : html
-    - name : FanWangEcon/Math4Econ
-    - stars : 9
 
 - html_url : https://github.com/gohugoio/hugo
     - lang : Go
@@ -942,11 +906,6 @@
     - lang : Shell
     - name : zplug/zplug
     - stars : 3081
-
-- html_url : https://github.com/unixorn/awesome-zsh-plugins
-    - lang : Shell
-    - name : unixorn/awesome-zsh-plugins
-    - stars : 6049
 
 - html_url : https://github.com/daleroberts/itermplot
     - lang : Python
@@ -4851,14 +4810,6 @@
     - name : ponyorm/pony
     - stars : 1796
 
-- html_url : https://github.com/akesterson/dpath-python
-	- description : A python library for accessing and searching dictionaries
-      via /slashed/paths ala xpath.
-    - lang : Python
-    - name : akesterson/dpath-python
-    - stars : 302
-	- tags : dictionary, grep, xpath, python
-
 - html_url : https://github.com/getnikola/nikola
     - lang : Python
     - name : getnikola/nikola
@@ -5645,11 +5596,6 @@
     - name : geopy/geopy
     - stars : 2433
 
-- html_url : https://github.com/yhat/pandasql
-    - lang : Python
-    - name : yhat/pandasql
-    - stars : 700
-
 - html_url : https://github.com/tleyden/open-ocr
     - lang : Go
     - name : tleyden/open-ocr
@@ -5801,11 +5747,6 @@
     - name : deanmalmgren/textract
     - stars : 2518
 
-- html_url : https://github.com/mkdocs/mkdocs
-    - lang : Python
-    - name : mkdocs/mkdocs
-    - stars : 7640
-
 - html_url : https://github.com/nryoung/algorithms
     - lang : Python
     - name : nryoung/algorithms
@@ -5922,14 +5863,24 @@
     - name : sklam/py2nb
     - stars : 77
 
-# Zsh custom
+# ZSH
+
+- html_url : https://github.com/robbyrussell/oh-my-zsh
+    - lang : Shell
+    - name : robbyrussell/oh-my-zsh
+    - stars : 88171
+
+- html_url : https://github.com/unixorn/awesome-zsh-plugins
+    - lang : Shell
+    - name : unixorn/awesome-zsh-plugins
+    - stars : 6049
 
 - html_url : https://github.com/sindresorhus/pure
     - lang : Shell
     - name : sindresorhus/pure
     - stars : 6728
 
-# Personal Assistant
+# Personal Assistant
 
 - html_url : https://github.com/sukeesh/Jarvis
     - lang : Python
@@ -6036,3 +5987,53 @@
     - lang : Python
     - name : andrea-cuttone/geoplotlib
     - stars : 765
+
+# Data access related
+
+- html_url : http://jmespath.org/
+    - description : JMESPath is aquery language for JSON.
+    - lang : Python
+    - name : akesterson/dpath-python
+    - stars : 302
+	- tags : dictionary, grep, json, list, tuple
+
+- html_url : https://github.com/akesterson/dpath-python
+	- description : A python library for accessing and searching dictionaries
+      via /slashed/paths ala xpath.
+    - lang : Python
+    - name : akesterson/dpath-python
+    - stars : 302
+	- tags : dictionary, grep, xpath, python
+
+- html_url : https://github.com/yhat/pandasql
+    - lang : Python
+    - name : yhat/pandasql
+    - stars : 700
+
+- html_url : https://github.com/Harlekuin/SimQLe
+    - description : Perfect for no fuss SQL in your Python projects. Execute
+      SQL and return simple record sets with named parameters. Manage several
+      connections, and switch between production, development and testing
+      modes.
+    - lang : Python
+    - name : Harlekuin/SimQLe
+    - stars : 25
+    - tags : sql, connection
+
+## Financial
+
+- html_url : https://github.com/verybadsoldier/backtrader_plotting
+    - description : Plotting addon for backtrader to support Bokeh (and maybe
+      more).
+    - lang : Python
+    - name : verybadsoldier/backtrader_plotting
+    - stars : 60
+    - tags : backtrader, plot, addon, finance
+
+# Documentation
+
+- html_url : https://github.com/mkdocs/mkdocs
+    - lang : Python
+    - name : mkdocs/mkdocs
+    - stars : 7640
+
