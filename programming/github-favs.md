@@ -1,5 +1,4 @@
-# Libraries
-
+# Github Projects
 
 ## shells
 
@@ -10,7 +9,22 @@
     - stars : 7052
     - tags : shell, multiplatform, linux, mac, windows, terminal
 
+### ZSH
 
+- html_url : https://github.com/robbyrussell/oh-my-zsh
+    - lang : Shell
+    - name : robbyrussell/oh-my-zsh
+    - stars : 88171
+
+- html_url : https://github.com/unixorn/awesome-zsh-plugins
+    - lang : Shell
+    - name : unixorn/awesome-zsh-plugins
+    - stars : 6049
+
+- html_url : https://github.com/sindresorhus/pure
+    - lang : Shell
+    - name : sindresorhus/pure
+    - stars : 6728
 
 ## CLI
 
@@ -56,7 +70,6 @@
     - name : dduan/dotfiles
     - stars : 5
     - tags : dotfiles, config, system
-
 
 - html_url : https://github.com/jeffgortmaker/pyblp
     - description : The pyblp package is a Python 3 implementation of routines
@@ -424,6 +437,861 @@
     - name : codimd/server
     - stars : 112
     - tags : markdown, editor, collaborative, share
+
+
+## Notebooks converters, sync
+
+- html_url : https://github.com/mwouts/jupytext
+    - description : Jupyter notebooks as Markdown documents, Julia, Python or
+      R scripts.
+    - lang : Python
+    - name : mwouts/jupytext
+    - stars : 2444
+    - tags : jupyter, markdown, convert, notebook, python, text
+
+- html_url : https://github.com/aaren/notedown
+    - description : Convert IPython Notebooks to markdown (and back).
+    - lang : Jupyter Notebook
+    - name : aaren/notedown
+    - stars : 618
+    - tags : markdown, python, ipython, notebook, convert
+
+- html_url : https://github.com/rossant/ipymd
+    - description : The JSON .ipynb are removed from the equation, and the
+      conversion happens on the fly. The IPython Notebook becomes an
+      interactive Markdown text editor!
+    - lang : Python
+    - name : rossant/ipymd
+    - stars : 462
+    - tags : markdown, python, ipython, notebook, convert
+
+- html_url : https://github.com/QuantEcon/ipynb_to_rst_tools
+    - description : Tools, scripts and instructions for converting Jupyter
+      notebooks to RST files.
+    - lang : Python
+    - name : QuantEcon/ipynb_to_rst_tools
+    - stars : 2
+    - tags : convert, rst, jupyter
+
+- html_url : https://github.com/jonthornton/wp2tumblr
+    - lang : Python
+    - name : jonthornton/wp2tumblr
+    - stars : 90
+
+- html_url : https://github.com/Pybonacci/ipy2wp
+    - lang : Python
+    - name : Pybonacci/ipy2wp
+    - stars : 18
+
+- html_url : https://github.com/sklam/py2nb
+	- description : This is a small utility for turning python scripts into
+	  jupyter notebooks and convert module-level multiline (triple quote)
+      string literals into markdown cells.
+    - lang : Python
+    - name : sklam/py2nb
+    - stars : 77
+
+## Personal Assistant
+
+- html_url : https://github.com/sukeesh/Jarvis
+    - lang : Python
+    - name : sukeesh/Jarvis
+    - stars : 1280
+
+- html_url : https://github.com/DongjunLee/kino-bot
+    - lang : Python
+    - name : DongjunLee/kino-bot
+    - stars : 91
+
+## Feature Engineering
+
+- html_url : https://github.com/Featuretools/featuretools
+    - lang : Python
+    - name : Featuretools/featuretools
+    - stars : 3661
+
+- html_url : https://github.com/EpistasisLab/tpot
+    - lang : Python
+    - name : EpistasisLab/tpot
+    - stars : 5704
+
+- html_url : https://github.com/blue-yonder/tsfresh
+    - lang : Jupyter Notebook
+    - name : blue-yonder/tsfresh
+    - stars : 3844
+
+## Plotting
+
+- html_url : https://github.com/ColCarroll/ridge_map
+    - description : Ridge plots of ridges.
+    - lang : Python
+    - name : ColCarroll/ridge_map
+    - stars : 154
+    - tags : plot, images, geographic, matplotlib, map
+
+- html_url : https://github.com/matplotlib/jupyter-matplotlib
+    - lang : JavaScript
+    - name : matplotlib/jupyter-matplotlib
+    - stars : 367
+
+- html_url : https://github.com/matplotlib/matplotlib
+    - lang : Python
+    - name : matplotlib/matplotlib
+    - stars : 9248
+
+- html_url : https://github.com/t-makaro/animatplot
+    - lang : Python
+    - name : t-makaro/animatplot
+    - stars : 316
+
+- html_url : https://github.com/jbmouret/matplotlib_for_papers
+    - lang : Python
+    - name : jbmouret/matplotlib_for_papers
+    - stars : 1133
+
+- html_url : https://github.com/sandialabs/toyplot
+    - lang : Jupyter Notebook
+    - name : sandialabs/toyplot
+    - stars : 370
+
+- html_url : https://github.com/plotly/dash
+    - lang : Python
+    - name : plotly/dash
+    - stars : 8952
+
+- html_url : https://github.com/facebookresearch/visdom
+    - description : A flexible tool for creating, organizing, and sharing
+	  visualizations of live, rich data. Supports Python.
+    - lang : Python
+    - name : facebookresearch/visdom
+    - stars : 6027
+	- tags : visualization, plot
+
+- html_url : https://github.com/ResidentMario/geoplot
+    - description : High-level geospatial data visualization library for Python.
+    - lang : Python
+    - name : ResidentMario/geoplot
+    - stars : 688
+    - tags : matplotlib, geospatial, library, visualization, plot
+
+- html_url : https://github.com/kennethreitz/twitter-scraper
+    - lang : Python
+    - name : kennethreitz/twitter-scraper
+    - stars : 1503
+
+- html_url : https://github.com/pyviz/hvplot
+    - lang : Python
+    - name : pyviz/hvplot
+    - stars : 146
+
+- html_url : https://github.com/plotly/falcon
+    - lang : JavaScript
+    - name : plotly/falcon
+    - stars : 714
+
+- html_url : https://github.com/reiinakano/scikit-plot
+    - lang : Python
+    - name : reiinakano/scikit-plot
+    - stars : 1470
+
+- html_url : https://github.com/andrea-cuttone/geoplotlib
+    - lang : Python
+    - name : andrea-cuttone/geoplotlib
+    - stars : 765
+
+
+## Financial
+
+- html_url : https://github.com/verybadsoldier/backtrader_plotting
+    - description : Plotting addon for backtrader to support Bokeh (and maybe
+      more).
+    - lang : Python
+    - name : verybadsoldier/backtrader_plotting
+    - stars : 60
+    - tags : backtrader, plot, addon, finance
+
+## Documentation
+
+- html_url : https://github.com/mkdocs/mkdocs
+    - lang : Python
+    - name : mkdocs/mkdocs
+    - stars : 7640
+
+## Data access related
+
+- html_url : http://jmespath.org/
+    - description : JMESPath is aquery language for JSON.
+    - lang : Python
+    - name : akesterson/dpath-python
+    - stars : 302
+	- tags : dictionary, grep, json, list, tuple
+
+- html_url : https://github.com/akesterson/dpath-python
+	- description : A python library for accessing and searching dictionaries
+      via /slashed/paths ala xpath.
+    - lang : Python
+    - name : akesterson/dpath-python
+    - stars : 302
+	- tags : dictionary, grep, xpath, python
+
+- html_url : https://github.com/yhat/pandasql
+    - lang : Python
+    - name : yhat/pandasql
+    - stars : 700
+
+- html_url : https://github.com/Harlekuin/SimQLe
+    - description : Perfect for no fuss SQL in your Python projects. Execute
+      SQL and return simple record sets with named parameters. Manage several
+      connections, and switch between production, development and testing
+      modes.
+    - lang : Python
+    - name : Harlekuin/SimQLe
+    - stars : 25
+    - tags : sql, connection
+
+## Diagrams
+
+- html_url : https://github.com/mermaidjs/mermaid-live-editor
+    - lang : JavaScript
+    - name : mermaidjs/mermaid-live-editor
+    - stars : 506
+    - tags : diagrams, online, editor, markdown, app
+
+- html_url : https://github.com/mermaidjs/mermaid.cli
+    - description : Generation of diagrams and flowcharts from text in a similar manner as markdown.
+    - lang : JavaScript
+    - name : mermaidjs/mermaid.cli
+    - stars : 658
+    - tags : diagrams, markdown, classdiagram, flowcharts
+
+- html_url : https://github.com/plantuml/plantuml
+    - description : Generate UML diagram from textual description.
+    - lang : Java
+    - name : plantuml/plantuml
+    - stars : 1931
+    - tags : design, uml, diagrams, development
+
+- html_url : https://github.com/plantuml/plantuml-stdlib
+    - description : Contains official Standard Library for PlantUML.
+    - lang : null
+    - name : plantuml/plantuml-stdlib
+    - stars : 35
+    - tags : design, uml, diagrams, development
+
+## StackOverflow clones
+
+- html_url : https://github.com/debiki/talkyard
+    - description : Forum software, brings together the best from
+      StackOverflow, Discourse, Slack, Reddit, Disqus.
+    - lang : Scala
+    - name : debiki/talkyard
+    - stars : 247
+    - tags : stackoverflow, forum, app, online, self-hosted, software, q&a
+
+- html_url : https://github.com/ASKBOT/askbot-devel
+    - description : Askbot is a Django/Python Q&A forum.
+    - lang : Python
+    - name : ASKBOT/askbot-devel
+    - stars : 1347
+    - tags : stackoverflow, forum, app, online, self-hosted, software, q&a
+
+- html_url : https://github.com/caelum/mamute
+    - description : Q&A engine.
+    - lang : Java
+    - name : caelum/mamute
+    - stars : 320
+    - tags : stackoverflow, forum, app, online, self-hosted, software, q&a
+
+- html_url : https://github.com/Datawalke/Coordino
+    - description : Self-hosted Knowledge Software your question & answer
+      system written on top of the CakePHP Framework.
+    - lang : PHP
+    - name : Datawalke/Coordino
+    - stars : 730
+    - tags : stackoveflow, forum, app, online, self-hosted, software, q&a
+
+- html_url : https://github.com/Erudika/scoold
+    - description : A Stack Overflow clone written in Java (self-hosted).
+    - lang : Java
+    - name : Erudika/scoold
+    - stars : 225
+    - tags : stackoveflow, forum, app, online, self-hosted, software, q&a
+
+## Open source Services
+
+- html_url : https://github.com/velikanov/opensource-candies
+    - description : The Free-for-Open-Source Services List.
+    - lang : null
+    - name : velikanov/opensource-candies
+    - stars : 406
+    - tags : list, services, free
+
+## Courses, Notes, tutorials, learning
+
+- html_url : https://github.com/spiside/pdb-tutorial
+    - lang : Python
+    - name : spiside/pdb-tutorial
+    - stars : 651
+
+- html_url : https://github.com/jvns/pandas-cookbook
+    - lang : Jupyter Notebook
+    - name : jvns/pandas-cookbook
+    - stars : 3768
+
+
+- html_url : https://github.com/yhat/DataGotham2013
+    - lang : Python
+    - name : yhat/DataGotham2013
+    - stars : 216
+
+- html_url : https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+    - lang : Jupyter Notebook
+    - name : CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+    - stars : 17922
+
+- html_url : https://github.com/CAChemE/curso_python_alicante
+    - lang : Python
+    - name : CAChemE/curso_python_alicante
+    - stars : 28
+
+- html_url : https://github.com/gregmalcolm/python_koans
+    - lang : Python
+    - name : gregmalcolm/python_koans
+    - stars : 3789
+
+- html_url : https://github.com/damianavila/SciPyConAr_Python_Cientifico
+    - lang : Python
+    - name : damianavila/SciPyConAr_Python_Cientifico
+    - stars : 5
+
+- html_url : https://github.com/worldbank/Python-for-Data-Science
+    - lang : Jupyter Notebook
+    - name : worldbank/Python-for-Data-Science
+    - stars : 6
+
+- html_url : https://github.com/worldbank/ML-classification-algorithms-poverty
+    - lang : Jupyter Notebook
+    - name : worldbank/ML-classification-algorithms-poverty
+    - stars : 16
+
+- html_url : https://github.com/unpingco/Python-for-Signal-Processing
+    - lang : Jupyter Notebook
+    - name : unpingco/Python-for-Signal-Processing
+    - stars : 954
+
+- html_url : https://github.com/lightning-viz/lightning-example-notebooks
+    - lang : CSS
+    - name : lightning-viz/lightning-example-notebooks
+    - stars : 52
+
+- html_url : https://github.com/anabranch/data_analysis_with_python_and_pandas
+    - lang : html
+    - name : anabranch/data_analysis_with_python_and_pandas
+    - stars : 59
+
+- html_url : https://github.com/tayllan/awesome-algorithms
+    - lang : null
+    - name : tayllan/awesome-algorithms
+    - stars : 6172
+
+- html_url : https://github.com/tiimgreen/github-cheat-sheet
+    - lang : null
+    - name : tiimgreen/github-cheat-sheet
+    - stars : 28061
+
+- html_url : https://github.com/EbookFoundation/free-programming-books
+    - lang : null
+    - name : EbookFoundation/free-programming-books
+    - stars : 122900
+
+- html_url : https://github.com/vinta/awesome-python
+    - lang : Python
+    - name : vinta/awesome-python
+    - stars : 67357
+
+- html_url : https://github.com/bulutyazilim/awesome-datascience
+    - lang : null
+    - name : bulutyazilim/awesome-datascience
+    - stars : 9834
+
+- html_url : https://github.com/stefanbuck/awesome-browser-extensions-for-github
+    - lang : null
+    - name : stefanbuck/awesome-browser-extensions-for-github
+    - stars : 1617
+
+- html_url : https://github.com/mdiener21/python-geospatial-analysis-cookbook
+    - lang : JavaScript
+    - name : mdiener21/python-geospatial-analysis-cookbook
+    - stars : 55
+
+- html_url : https://github.com/oslugr/curso-python-avanzado
+    - lang : html
+    - name : oslugr/curso-python-avanzado
+    - stars : 23
+
+- html_url : https://github.com/rushter/data-science-blogs
+    - lang : Python
+    - name : rushter/data-science-blogs
+    - stars : 4675
+
+- html_url : https://github.com/CAChemE/curso-python-cientifico
+    - lang : Python
+    - name : CAChemE/curso-python-cientifico
+    - stars : 6
+
+- html_url : https://github.com/certik/scipy-2013-tutorial
+    - lang : Python
+    - name : certik/scipy-2013-tutorial
+    - stars : 22
+
+- html_url : https://github.com/asmeurer/scipy-2014-tutorial
+    - lang : Jupyter Notebook
+    - name : asmeurer/scipy-2014-tutorial
+    - stars : 20
+
+- html_url : https://github.com/TwistedHardware/mltutorial
+    - lang : Jupyter Notebook
+    - name : TwistedHardware/mltutorial
+    - stars : 105
+
+- html_url : https://github.com/scrapinghub/pycon-speakers
+    - lang : Python
+    - name : scrapinghub/pycon-speakers
+    - stars : 30
+
+- html_url : https://github.com/nyghtowl/PyCon_2014
+    - lang : Python
+    - name : nyghtowl/PyCon_2014
+    - stars : 24
+
+- html_url : https://github.com/yasoob/intermediatePython
+    - lang : Python
+    - name : yasoob/intermediatePython
+    - stars : 2558
+
+- html_url : https://github.com/TomAugspurger/Greene_Econometrics
+    - lang : Python
+    - name : TomAugspurger/Greene_Econometrics
+    - stars : 13
+
+- html_url : https://github.com/vincentarelbundock/Reinhart-Rogoff
+    - lang : Python
+    - name : vincentarelbundock/Reinhart-Rogoff
+    - stars : 19
+
+- html_url : https://github.com/jseabold/csc432-notebooks
+    - lang : Python
+    - name : jseabold/csc432-notebooks
+    - stars : 21
+
+- html_url : https://github.com/wzchen/probability_cheatsheet
+    - lang : TeX
+    - name : wzchen/probability_cheatsheet
+    - stars : 1304
+
+- html_url : https://github.com/guillemborrell/pydata-madrid
+    - lang : Julia
+    - name : guillemborrell/pydata-madrid
+    - stars : 5
+
+- html_url : https://github.com/TomasGAA/Pydata_Madrid2016_Solution_Inverse_problem
+    - lang : Jupyter Notebook
+    - name : TomasGAA/Pydata_Madrid2016_Solution_Inverse_problem
+    - stars : 3
+
+- html_url : https://github.com/brandon-rhodes/pycon-pandas-tutorial
+    - lang : Jupyter Notebook
+    - name : brandon-rhodes/pycon-pandas-tutorial
+    - stars : 657
+
+- html_url : https://github.com/jstac/econometrics
+    - lang : Jupyter Notebook
+    - name : jstac/econometrics
+    - stars : 42
+
+- html_url : https://github.com/coursera-dl/coursera-dl
+    - lang : Python
+    - name : coursera-dl/coursera-dl
+    - stars : 7140
+
+- html_url : https://github.com/sinhrks/pyopendata
+    - lang : Python
+    - name : sinhrks/pyopendata
+    - stars : 11
+
+- html_url : https://github.com/rojassergio/Learning-Scipy
+    - lang : Jupyter Notebook
+    - name : rojassergio/Learning-Scipy
+    - stars : 16
+
+- html_url : https://github.com/jorisvandenbossche/2015-PyDataParis
+    - lang : Python
+    - name : jorisvandenbossche/2015-PyDataParis
+    - stars : 93
+
+- html_url : https://github.com/QuantEcon/QuantEcon.py
+    - lang : Python
+    - name : QuantEcon/QuantEcon.py
+    - stars : 842
+
+- html_url : https://github.com/daniestevez/jupyter_notebooks
+    - description : collection of notebooks.
+    - lang : Jupyter Notebook
+    - name : daniestevez/jupyter_notebooks
+    - stars : 17
+    - tags : notebooks, examples, jupyter
+
+- html_url : https://github.com/jakevdp/PythonDataScienceHandbook
+    - lang : Jupyter Notebook
+    - name : jakevdp/PythonDataScienceHandbook
+    - stars : 17797
+
+- html_url : https://github.com/Koenigsweg/data-timeseries-analysis-with-pandas
+    - lang : Jupyter Notebook
+    - name : Koenigsweg/data-timeseries-analysis-with-pandas
+    - stars : 12
+
+- html_url : https://github.com/Karumi/learnyougit
+    - lang : JavaScript
+    - name : Karumi/learnyougit
+    - stars : 63
+
+- html_url : https://github.com/widdowquinn/Teaching-Data-Visualisation
+    - lang : html
+    - name : widdowquinn/Teaching-Data-Visualisation
+    - stars : 10
+
+- html_url : https://github.com/jakeybob/brexit-maps
+    - lang : Python
+    - name : jakeybob/brexit-maps
+    - stars : 3
+
+- html_url : https://github.com/guardian/interactive-election-polls-2015
+    - lang : JavaScript
+    - name : guardian/interactive-election-polls-2015
+    - stars : 3
+
+- html_url : https://github.com/QuantEcon/QuantEcon.notebooks
+    - lang : Jupyter Notebook
+    - name : QuantEcon/QuantEcon.notebooks
+    - stars : 90
+
+- html_url : https://github.com/kaleko/CourseraML
+    - lang : Jupyter Notebook
+    - name : kaleko/CourseraML
+    - stars : 1262
+
+- html_url : https://github.com/rragundez/coursera-machine-learning-AndrewNg-Python
+    - lang : Jupyter Notebook
+    - name : rragundez/coursera-machine-learning-AndrewNg-Python
+    - stars : 33
+
+- html_url : https://github.com/unnati-xyz/intro-python-data-science
+    - lang : html
+    - name : unnati-xyz/intro-python-data-science
+    - stars : 20
+
+- html_url : https://github.com/adamhajari/Introduction-to-Data-Science
+    - lang : Jupyter Notebook
+    - name : adamhajari/Introduction-to-Data-Science
+    - stars : 30
+
+- html_url : https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science
+    - lang : Jupyter Notebook
+    - name : amarallab/Introduction-to-Python-Programming-and-Data-Science
+    - stars : 36
+
+- html_url : https://github.com/datosgobar/presentacion-type-checking-python
+    - lang : html
+    - name : datosgobar/presentacion-type-checking-python
+    - stars : 2
+
+- html_url : https://github.com/dask/dask-tutorial
+    - lang : Jupyter Notebook
+    - name : dask/dask-tutorial
+    - stars : 704
+
+- html_url : https://github.com/oxford-cs-deepnlp-2017/lectures
+    - lang : null
+    - name : oxford-cs-deepnlp-2017/lectures
+    - stars : 13780
+
+- html_url : https://github.com/masdeseiscaracteres/pythonhack2016
+    - lang : Jupyter Notebook
+    - name : masdeseiscaracteres/pythonhack2016
+    - stars : 4
+
+- html_url : https://github.com/dwillis/nyc-maps
+    - lang : null
+    - name : dwillis/nyc-maps
+    - stars : 118
+
+- html_url : https://github.com/jseabold/dask-pydata-dc-2016
+    - lang : Jupyter Notebook
+    - name : jseabold/dask-pydata-dc-2016
+    - stars : 10
+
+- html_url : https://github.com/ianozsvald/data_science_delivered
+    - lang : Jupyter Notebook
+    - name : ianozsvald/data_science_delivered
+    - stars : 463
+
+- html_url : https://github.com/jorisvandenbossche/SWSC2016-pandas-dask
+    - lang : Jupyter Notebook
+    - name : jorisvandenbossche/SWSC2016-pandas-dask
+    - stars : 8
+
+- html_url : https://github.com/realpython/python-guide
+    - lang : Batchfile
+    - name : realpython/python-guide
+    - stars : 18138
+
+- html_url : https://github.com/Juanlu001/dask-talk
+    - lang : Jupyter Notebook
+    - name : Juanlu001/dask-talk
+    - stars : 2
+
+- html_url : https://github.com/kylerbrown/python-for-neuroscience
+    - lang : Groff
+    - name : kylerbrown/python-for-neuroscience
+    - stars : 20
+
+- html_url : https://github.com/AllenDowney/ThinkStats2
+    - lang : Jupyter Notebook
+    - name : AllenDowney/ThinkStats2
+    - stars : 2119
+
+- html_url : https://github.com/AllenDowney/ThinkBayes
+    - lang : TeX
+    - name : AllenDowney/ThinkBayes
+    - stars : 1145
+
+- html_url : https://github.com/aymericdamien/TensorFlow-Examples
+    - lang : Jupyter Notebook
+    - name : aymericdamien/TensorFlow-Examples
+    - stars : 31517
+
+- html_url : https://github.com/ujjwalkarn/DataSciencePython
+    - lang : Python
+    - name : ujjwalkarn/DataSciencePython
+    - stars : 3544
+
+- html_url : https://github.com/MrAlex6204/Books
+    - lang : null
+    - name : MrAlex6204/Books
+    - stars : 673
+
+- html_url : https://github.com/bitcoinbook/bitcoinbook
+    - lang : Python
+    - name : bitcoinbook/bitcoinbook
+    - stars : 11776
+
+- html_url : https://github.com/python-madrid/scraping-python
+    - lang : Python
+    - name : python-madrid/scraping-python
+    - stars : 11
+
+- html_url : https://github.com/Python-en-ciencia/Python-cientifico
+    - lang : JavaScript
+    - name : Python-en-ciencia/Python-cientifico
+    - stars : 8
+
+- html_url : https://github.com/kstaken/dockerfile-examples
+    - lang : Shell
+    - name : kstaken/dockerfile-examples
+    - stars : 734
+
+- html_url : https://github.com/komljen/dockerfile-examples
+    - lang : Shell
+    - name : komljen/dockerfile-examples
+    - stars : 421
+
+- html_url : https://github.com/philschatz/economics-book
+    - lang : html
+    - name : philschatz/economics-book
+    - stars : 13
+
+- html_url : https://github.com/mmckerns/tutmom
+    - lang : Jupyter Notebook
+    - name : mmckerns/tutmom
+    - stars : 160
+
+- html_url : https://github.com/fred-navruzov/featuretools-workshop
+    - lang : Jupyter Notebook
+    - name : fred-navruzov/featuretools-workshop
+    - stars : 10
+
+- html_url : https://github.com/dipanjanS/practical-machine-learning-with-python
+    - lang : Jupyter Notebook
+    - name : dipanjanS/practical-machine-learning-with-python
+    - stars : 1004
+
+- html_url : https://github.com/ray-project/tutorial
+    - lang : Jupyter Notebook
+    - name : ray-project/tutorial
+    - stars : 234
+
+- html_url : https://github.com/JudasDie/deeplearning.ai
+    - lang : Jupyter Notebook
+    - name : JudasDie/deeplearning.ai
+    - stars : 391
+
+- html_url : https://github.com/pagutierrez/tutorial-sklearn
+    - lang : html
+    - name : pagutierrez/tutorial-sklearn
+    - stars : 33
+
+- html_url : https://github.com/mwcraig/scipy2017-jupyter-widgets-tutorial
+    - lang : Jupyter Notebook
+    - name : mwcraig/scipy2017-jupyter-widgets-tutorial
+    - stars : 86
+
+- html_url : https://github.com/rveciana/BasemapTutorial
+    - lang : Python
+    - name : rveciana/BasemapTutorial
+    - stars : 56
+
+- html_url : https://github.com/rveciana/introduccion-python-geoespacial
+    - lang : Python
+    - name : rveciana/introduccion-python-geoespacial
+    - stars : 8
+
+- html_url : https://github.com/hunkim/DeepLearningZeroToAll
+    - description : TensorFlow Basic Tutorial Labs.
+    - lang : Jupyter Notebook
+    - name : hunkim/DeepLearningZeroToAll
+    - stars : 3307
+    - tags : examples, lab, tensoflow, learning
+
+- html_url : https://github.com/ujjwalkarn/Machine-Learning-Tutorials
+    - lang : null
+    - name : ujjwalkarn/Machine-Learning-Tutorials
+    - stars : 8999
+
+- html_url : https://github.com/hgrif/airflow-tutorial
+    - lang : null
+    - name : hgrif/airflow-tutorial
+    - stars : 197
+
+- html_url : https://github.com/chiphuyen/stanford-tensorflow-tutorials
+    - lang : Python
+    - name : chiphuyen/stanford-tensorflow-tutorials
+    - stars : 8533
+
+- html_url : https://github.com/econtoolkit/tutorials
+    - lang : Jupyter Notebook
+    - name : econtoolkit/tutorials
+    - stars : 4
+
+- html_url : https://github.com/siboehm/awesome-learn-datascience
+    - lang : null
+    - name : siboehm/awesome-learn-datascience
+    - stars : 349
+
+- html_url : https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+    - lang : Python
+    - name : floodsung/Deep-Learning-Papers-Reading-Roadmap
+    - stars : 22785
+
+- html_url : https://github.com/terryum/awesome-deep-learning-papers
+    - lang : TeX
+    - name : terryum/awesome-deep-learning-papers
+    - stars : 18844
+
+- html_url : https://github.com/papers-we-love/papers-we-love
+    - lang : null
+    - name : papers-we-love/papers-we-love
+    - stars : 34572
+
+- html_url : https://github.com/ChristosChristofidis/awesome-deep-learning
+    - lang : null
+    - name : ChristosChristofidis/awesome-deep-learning
+    - stars : 12213
+
+- html_url : https://github.com/docker/labs
+    - description : Docker Tutorials and Labs.
+    - lang : PHP
+    - name : docker/labs
+    - stars : 7388
+    - tags : docker, examples, labs, swarm
+
+- html_url : https://github.com/Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
+    - lang : null
+    - name : Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
+    - stars : 4
+
+- html_url : https://github.com/OpenSourceEcon/IncomeTrans
+    - lang : Jupyter Notebook
+    - name : OpenSourceEcon/IncomeTrans
+    - stars : 2
+
+- html_url : https://github.com/rickecon/IncomeTrans
+    - lang : Jupyter Notebook
+    - name : rickecon/IncomeTrans
+    - stars : 2
+
+- html_url : https://github.com/FanWangEcon/Math4Econ
+    - lang : html
+    - name : FanWangEcon/Math4Econ
+    - stars : 9
+
+## Maths
+
+- html_url : https://github.com/JuliaMath/GSL.jl
+    - description : Julia wrapper for the GNU Scientific Library (GSL), for Julia v1.0+.
+    - lang : Julia
+    - name : JuliaMath/GSL.jl
+    - stars : 50
+    - tags : statitics, gnu, c++
+
+- html_url : https://github.com/JuliaStats/HypothesisTests.jl
+    - description : HypothesisTests.jl is a Julia package that implements a wide range of hypothesis tests.
+    - lang : Julia
+    - name : JuliaStats/HypothesisTests.jl
+    - stars : 81
+    - tags : statistics, hypothesis, test
+
+- html_url : https://github.com/nep-pack/NonlinearEigenproblems.jl
+    - lang : Julia
+    - name : nep-pack/NonlinearEigenproblems.jl
+    - stars : 27
+
+- html_url : https://github.com/vdumoulin/conv_arithmetic
+    - description : A technical report on convolution arithmetic in the context
+      of deep learning.
+    - lang : TeX
+    - name : vdumoulin/conv_arithmetic
+    - stars : 6405
+    - tags : conventions, math, graphics, deep-learning, images, gif
+
+### Optimization
+
+- html_url : https://github.com/thouska/spotpy
+    - description : A Statistical Parameter Optimization Tool for Python
+    - lang : Python
+    - name : thouska/spotpy
+    - stars : 85
+    - tags : optimization, python, statistics
+
+## Productivity tools
+
+- html_url : https://github.com/Splode/pomotroid
+    - description : Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.
+    - lang : Vue
+    - name : Splode/pomotroid
+    - stars : 436
+    - tags : pomodoro, timer, app
+
+## termianl tools
+
+- html_url : https://github.com/BurntSushi/ripgrep
+    - description : ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern. By default, ripgrep will respect your .gitignore and automatically skip hidden files/directories and binary files. ripgrep has first class support on Windows, macOS and Linux, with binary downloads available for every release. ripgrep is similar to other popular search tools like The Silver Searcher, ack and grep.
+    - lang : Rust
+    - name : BurntSushi/ripgrep
+    - stars : 14507
+    - tags : grep, searching, binary
+
+## Unknown
 
 - html_url : https://github.com/buriy/python-readability
     - lang : html
@@ -5646,269 +6514,3 @@
     - lang : JavaScript
     - name : atom/atom
     - stars : 48728
-
-# StackOverflow clones
-
-- html_url : https://github.com/debiki/talkyard
-    - description : Forum software, brings together the best from
-      StackOverflow, Discourse, Slack, Reddit, Disqus.
-    - lang : Scala
-    - name : debiki/talkyard
-    - stars : 247
-    - tags : stackoverflow, forum, app, online, self-hosted, software, q&a
-
-- html_url : https://github.com/ASKBOT/askbot-devel
-    - description : Askbot is a Django/Python Q&A forum.
-    - lang : Python
-    - name : ASKBOT/askbot-devel
-    - stars : 1347
-    - tags : stackoverflow, forum, app, online, self-hosted, software, q&a
-
-- html_url : https://github.com/caelum/mamute
-    - description : Q&A engine.
-    - lang : Java
-    - name : caelum/mamute
-    - stars : 320
-    - tags : stackoverflow, forum, app, online, self-hosted, software, q&a
-
-- html_url : https://github.com/Datawalke/Coordino
-    - description : Self-hosted Knowledge Software your question & answer
-      system written on top of the CakePHP Framework.
-    - lang : PHP
-    - name : Datawalke/Coordino
-    - stars : 730
-    - tags : stackoveflow, forum, app, online, self-hosted, software, q&a
-
-- html_url : https://github.com/Erudika/scoold
-    - description : A Stack Overflow clone written in Java (self-hosted).
-    - lang : Java
-    - name : Erudika/scoold
-    - stars : 225
-    - tags : stackoveflow, forum, app, online, self-hosted, software, q&a
-
-# Notebooks converters, sync
-
-- html_url : https://github.com/mwouts/jupytext
-    - description : Jupyter notebooks as Markdown documents, Julia, Python or
-      R scripts.
-    - lang : Python
-    - name : mwouts/jupytext
-    - stars : 2444
-    - tags : jupyter, markdown, convert, notebook, python, text
-
-- html_url : https://github.com/aaren/notedown
-    - description : Convert IPython Notebooks to markdown (and back).
-    - lang : Jupyter Notebook
-    - name : aaren/notedown
-    - stars : 618
-    - tags : markdown, python, ipython, notebook, convert
-
-- html_url : https://github.com/rossant/ipymd
-    - description : The JSON .ipynb are removed from the equation, and the
-      conversion happens on the fly. The IPython Notebook becomes an
-      interactive Markdown text editor!
-    - lang : Python
-    - name : rossant/ipymd
-    - stars : 462
-    - tags : markdown, python, ipython, notebook, convert
-
-- html_url : https://github.com/QuantEcon/ipynb_to_rst_tools
-    - description : Tools, scripts and instructions for converting Jupyter
-      notebooks to RST files.
-    - lang : Python
-    - name : QuantEcon/ipynb_to_rst_tools
-    - stars : 2
-    - tags : convert, rst, jupyter
-
-- html_url : https://github.com/jonthornton/wp2tumblr
-    - lang : Python
-    - name : jonthornton/wp2tumblr
-    - stars : 90
-
-- html_url : https://github.com/Pybonacci/ipy2wp
-    - lang : Python
-    - name : Pybonacci/ipy2wp
-    - stars : 18
-
-- html_url : https://github.com/sklam/py2nb
-	- description : This is a small utility for turning python scripts into
-	  jupyter notebooks and convert module-level multiline (triple quote)
-      string literals into markdown cells.
-    - lang : Python
-    - name : sklam/py2nb
-    - stars : 77
-
-# ZSH
-
-- html_url : https://github.com/robbyrussell/oh-my-zsh
-    - lang : Shell
-    - name : robbyrussell/oh-my-zsh
-    - stars : 88171
-
-- html_url : https://github.com/unixorn/awesome-zsh-plugins
-    - lang : Shell
-    - name : unixorn/awesome-zsh-plugins
-    - stars : 6049
-
-- html_url : https://github.com/sindresorhus/pure
-    - lang : Shell
-    - name : sindresorhus/pure
-    - stars : 6728
-
-# Personal Assistant
-
-- html_url : https://github.com/sukeesh/Jarvis
-    - lang : Python
-    - name : sukeesh/Jarvis
-    - stars : 1280
-
-- html_url : https://github.com/DongjunLee/kino-bot
-    - lang : Python
-    - name : DongjunLee/kino-bot
-    - stars : 91
-
-# Feature Engineering
-
-- html_url : https://github.com/Featuretools/featuretools
-    - lang : Python
-    - name : Featuretools/featuretools
-    - stars : 3661
-
-- html_url : https://github.com/EpistasisLab/tpot
-    - lang : Python
-    - name : EpistasisLab/tpot
-    - stars : 5704
-
-- html_url : https://github.com/blue-yonder/tsfresh
-    - lang : Jupyter Notebook
-    - name : blue-yonder/tsfresh
-    - stars : 3844
-
-# Plotting
-
-- html_url : https://github.com/ColCarroll/ridge_map
-    - description : Ridge plots of ridges.
-    - lang : Python
-    - name : ColCarroll/ridge_map
-    - stars : 154
-    - tags : plot, images, geographic, matplotlib, map
-
-- html_url : https://github.com/matplotlib/jupyter-matplotlib
-    - lang : JavaScript
-    - name : matplotlib/jupyter-matplotlib
-    - stars : 367
-
-- html_url : https://github.com/matplotlib/matplotlib
-    - lang : Python
-    - name : matplotlib/matplotlib
-    - stars : 9248
-
-- html_url : https://github.com/t-makaro/animatplot
-    - lang : Python
-    - name : t-makaro/animatplot
-    - stars : 316
-
-- html_url : https://github.com/jbmouret/matplotlib_for_papers
-    - lang : Python
-    - name : jbmouret/matplotlib_for_papers
-    - stars : 1133
-
-- html_url : https://github.com/sandialabs/toyplot
-    - lang : Jupyter Notebook
-    - name : sandialabs/toyplot
-    - stars : 370
-
-- html_url : https://github.com/plotly/dash
-    - lang : Python
-    - name : plotly/dash
-    - stars : 8952
-
-- html_url : https://github.com/facebookresearch/visdom
-    - description : A flexible tool for creating, organizing, and sharing
-	  visualizations of live, rich data. Supports Python.
-    - lang : Python
-    - name : facebookresearch/visdom
-    - stars : 6027
-	- tags : visualization, plot
-
-- html_url : https://github.com/ResidentMario/geoplot
-    - description : High-level geospatial data visualization library for Python.
-    - lang : Python
-    - name : ResidentMario/geoplot
-    - stars : 688
-    - tags : matplotlib, geospatial, library, visualization, plot
-
-- html_url : https://github.com/kennethreitz/twitter-scraper
-    - lang : Python
-    - name : kennethreitz/twitter-scraper
-    - stars : 1503
-
-- html_url : https://github.com/pyviz/hvplot
-    - lang : Python
-    - name : pyviz/hvplot
-    - stars : 146
-
-- html_url : https://github.com/plotly/falcon
-    - lang : JavaScript
-    - name : plotly/falcon
-    - stars : 714
-
-- html_url : https://github.com/reiinakano/scikit-plot
-    - lang : Python
-    - name : reiinakano/scikit-plot
-    - stars : 1470
-
-- html_url : https://github.com/andrea-cuttone/geoplotlib
-    - lang : Python
-    - name : andrea-cuttone/geoplotlib
-    - stars : 765
-
-# Data access related
-
-- html_url : http://jmespath.org/
-    - description : JMESPath is aquery language for JSON.
-    - lang : Python
-    - name : akesterson/dpath-python
-    - stars : 302
-	- tags : dictionary, grep, json, list, tuple
-
-- html_url : https://github.com/akesterson/dpath-python
-	- description : A python library for accessing and searching dictionaries
-      via /slashed/paths ala xpath.
-    - lang : Python
-    - name : akesterson/dpath-python
-    - stars : 302
-	- tags : dictionary, grep, xpath, python
-
-- html_url : https://github.com/yhat/pandasql
-    - lang : Python
-    - name : yhat/pandasql
-    - stars : 700
-
-- html_url : https://github.com/Harlekuin/SimQLe
-    - description : Perfect for no fuss SQL in your Python projects. Execute
-      SQL and return simple record sets with named parameters. Manage several
-      connections, and switch between production, development and testing
-      modes.
-    - lang : Python
-    - name : Harlekuin/SimQLe
-    - stars : 25
-    - tags : sql, connection
-
-## Financial
-
-- html_url : https://github.com/verybadsoldier/backtrader_plotting
-    - description : Plotting addon for backtrader to support Bokeh (and maybe
-      more).
-    - lang : Python
-    - name : verybadsoldier/backtrader_plotting
-    - stars : 60
-    - tags : backtrader, plot, addon, finance
-
-# Documentation
-
-- html_url : https://github.com/mkdocs/mkdocs
-    - lang : Python
-    - name : mkdocs/mkdocs
-    - stars : 7640
-
