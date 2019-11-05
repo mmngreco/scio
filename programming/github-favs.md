@@ -1,13 +1,5 @@
 # Libraries
 
-## Optimization
-
-- html_url : https://github.com/thouska/spotpy
-    - description : A Statistical Parameter Optimization Tool for Python
-    - lang : Python
-    - name : thouska/spotpy
-    - stars : 85
-    - tags : optimization, python, statistics
 
 ## shells
 
@@ -18,65 +10,7 @@
     - stars : 7052
     - tags : shell, multiplatform, linux, mac, windows, terminal
 
-## Diagrams
 
-- html_url : https://github.com/mermaidjs/mermaid-live-editor
-    - lang : JavaScript
-    - name : mermaidjs/mermaid-live-editor
-    - stars : 506
-    - tags : diagrams, online, editor, markdown, app
-
-- html_url : https://github.com/mermaidjs/mermaid.cli
-    - description : Generation of diagrams and flowcharts from text in a similar manner as markdown.
-    - lang : JavaScript
-    - name : mermaidjs/mermaid.cli
-    - stars : 658
-    - tags : diagrams, markdown, classdiagram, flowcharts
-
-- html_url : https://github.com/plantuml/plantuml
-    - description : Generate UML diagram from textual description.
-    - lang : Java
-    - name : plantuml/plantuml
-    - stars : 1931
-    - tags : design, uml, diagrams, development
-
-- html_url : https://github.com/plantuml/plantuml-stdlib
-    - description : Contains official Standard Library for PlantUML.
-    - lang : null
-    - name : plantuml/plantuml-stdlib
-    - stars : 35
-    - tags : design, uml, diagrams, development
-
-## Maths
-
-- html_url : https://github.com/JuliaMath/GSL.jl
-    - description : Julia wrapper for the GNU Scientific Library (GSL), for Julia v1.0+.
-    - lang : Julia
-    - name : JuliaMath/GSL.jl
-    - stars : 50
-    - tags : statitics, gnu, c++
-
-- html_url : https://github.com/JuliaStats/HypothesisTests.jl
-    - description : HypothesisTests.jl is a Julia package that implements a wide range of hypothesis tests.
-    - lang : Julia
-    - name : JuliaStats/HypothesisTests.jl
-    - stars : 81
-    - tags : statistics, hypothesis, test
-
-- html_url : https://github.com/nep-pack/NonlinearEigenproblems.jl
-    - lang : Julia
-    - name : nep-pack/NonlinearEigenproblems.jl
-    - stars : 27
-
-
-## Open source Services
-
-- html_url : https://github.com/velikanov/opensource-candies
-    - description : The Free-for-Open-Source Services List.
-    - lang : null
-    - name : velikanov/opensource-candies
-    - stars : 406
-    - tags : list, services, free
 
 ## CLI
 
@@ -87,15 +21,6 @@
     - name : moigagoo/cliar
     - stars : 19
     - tags : cli, python, interface, command-line
-
-## Dependencies, Linter and code analysis
-
-- html_url : https://github.com/vintasoftware/python-linters-and-code-analysis
-    - description : Python Linters and Code Analysis tools curated list.
-    - lang : null
-    - name : vintasoftware/python-linters-and-code-analysis
-    - stars : 256
-    - tags : linter, code-analysis, list
 
 - html_url : https://github.com/urlhum/UrlHum
     - description : UrlHum is a modern, privacy-aware and fast URL Shortener built with PHP and the Laravel Framework. At the moment UrlHum is heavily under development, so we recommend you to don't use it in production.
@@ -111,62 +36,12 @@
     - stars : 113
     - tags : R, forescasting, prediction, time-series
 
-- html_url : https://github.com/Splode/pomotroid
-    - description : Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.
-    - lang : Vue
-    - name : Splode/pomotroid
-    - stars : 436
-    - tags : pomodoro, timer, app
-
-- html_url : https://github.com/dephell/dephell
-    - description : DepHell -- project management for Python.
-    - lang : Python
-    - name : dephell/dephell
-    - stars : 389
-    - tags : dependencies, manager, project, packages, libraries
-
-- html_url : https://github.com/rbanffy/pip-chill
-    - description : Like pip freeze but lists only the packages that are not dependencies of installed packages.
-    - lang : Python
-    - name : rbanffy/pip-chill
-    - stars : 58
-    - tags : dependencies, pip, freeze, packages, libraries, requirements
-
-- html_url : https://github.com/ofek/hatch
-    - description : Hatch is a productivity tool designed to make your workflow easier and more efficient, while also reducing the number of other tools you need to know. It aims to make the 90% use cases as pleasant as possible.
-    - lang : Python
-    - name : ofek/hatch
-    - stars : 2002
-    - tags : dependencies, packages, libraries, manager
-
-- html_url : https://github.com/KeziahMoselle/export-github-stars
-    - description : View / Sort / Export your Starred repositories.
-    - lang : Vue
-    - name : KeziahMoselle/export-github-stars
-    - stars : 2
-    - tags : github, favs, stars, repositories, export, online, app
-
-- html_url : https://github.com/BurntSushi/ripgrep
-    - description : ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern. By default, ripgrep will respect your .gitignore and automatically skip hidden files/directories and binary files. ripgrep has first class support on Windows, macOS and Linux, with binary downloads available for every release. ripgrep is similar to other popular search tools like The Silver Searcher, ack and grep.
-    - lang : Rust
-    - name : BurntSushi/ripgrep
-    - stars : 14507
-    - tags : grep, searching, binary
-
 - html_url : https://github.com/tylerneylon/explacy
     - description : This is a small script to explain spacy parse results.
     - lang : Python
     - name : tylerneylon/explacy
     - stars : 37
     - tags : nlp, spacy
-
-- html_url : https://github.com/vdumoulin/conv_arithmetic
-    - description : A technical report on convolution arithmetic in the context
-      of deep learning.
-    - lang : TeX
-    - name : vdumoulin/conv_arithmetic
-    - stars : 6405
-    - tags : conventions, math, graphics, deep-learning, images, gif
 
 - html_url : https://github.com/cb109/payshare
     - description : A web app to track shared expenses in a group of people.

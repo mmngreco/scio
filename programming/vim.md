@@ -1,4 +1,4 @@
-FAQ's
+# VIM
 
 * [How to flip windows in vim?](https://stackoverflow.com/questions/6071266/how-to-flip-windows-in-vim/6071520)
 * [Simple Vim session management: Part 1 * DockYard](https://dockyard.com/blog/2018/06/01/simple-vim-session-management-part-1)
