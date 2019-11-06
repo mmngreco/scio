@@ -1,11 +1,13 @@
 # Learning
 
+## Programming
+
 * [The hitchhicker's guide to Python!](https://docs.python-guide.org/)
 * [Python Performance tips](https://nyu-cds.github.io/python-performance-tips/)
 
-# Learning by doing
+### Learning by doing
 
-## games
+#### games
 
 * [checkio](https://checkio.org/): learn python or javascrip resolving problems.
 * https://codecombat.com/
@@ -13,9 +15,10 @@
 * https://empireofcode.com/
 * https://regexcrossword.com
 
-## Python course
+#### Python course
 
 * [Python courses by NYU](https://github.com/nyu-cds)
+
 
 ## Dinamics Systems
 
