@@ -17,3 +17,6 @@
 
 * [Python courses by NYU](https://github.com/nyu-cds)
 
+## Dinamics Systems
+
+* https://www.youtube.com/channel/UCBKOMCUz9OuWJOSZ_oPZmDw/videos
