@@ -1266,6 +1266,21 @@
 
 ### Optimization
 
+- html_url : https://github.com/cvxopt/cvxpy
+    - lang : Python
+    - name : cvxopt/cvxpy
+    - stars : 585
+
+- html_url : https://github.com/cvxopt/cvxopt
+    - lang : Python
+    - name : cvxopt/cvxopt
+    - stars : 585
+
+- html_url : https://github.com/coin-or/pulp
+    - lang : Python
+    - name : coin-or/pulp
+    - stars : 547
+
 - html_url : https://github.com/thouska/spotpy
     - description : A Statistical Parameter Optimization Tool for Python
     - lang : Python
@@ -6243,11 +6258,6 @@
     - lang : Python
     - name : ZeevG/python-forecast.io
     - stars : 400
-
-- html_url : https://github.com/coin-or/pulp
-    - lang : Python
-    - name : coin-or/pulp
-    - stars : 547
 
 - html_url : https://github.com/wireservice/agate
     - lang : Python
