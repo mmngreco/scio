@@ -25,3 +25,5 @@ Interactive git flow - https://guides.github.com/introduction/flow/
 # Learning
 
 * https://learnxinyminutes.com/
+* http://learnvimscriptthehardway.stevelosh.com/
+* https://devhints.io/vimscript
