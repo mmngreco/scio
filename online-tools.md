@@ -21,3 +21,7 @@ Interactive git flow - https://guides.github.com/introduction/flow/
 # English tools
 
 * Writing review : https://www.expresso-app.org/
+
+# Learning
+
+* https://learnxinyminutes.com/
