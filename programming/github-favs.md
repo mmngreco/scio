@@ -1266,6 +1266,11 @@
 
 ### Optimization
 
+- html_url : https://github.com/modelon/Assimulo
+    - lang : Python
+    - name : modelon/Assimulo
+    - stars : 2
+*
 - html_url : https://github.com/cvxopt/cvxpy
     - lang : Python
     - name : cvxopt/cvxpy
