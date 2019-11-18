@@ -9,6 +9,11 @@
     - stars : 7052
     - tags : shell, multiplatform, linux, mac, windows, terminal
 
+- html_url : https://github.com/fish-shell/fish-shell
+    - lang : Shell
+    - name : fish-shell/fish-shell
+    - stars : 12925
+
 ### ZSH
 
 - html_url : https://github.com/robbyrussell/oh-my-zsh
@@ -26,7 +31,7 @@
     - name : sindresorhus/pure
     - stars : 6728
 
-## CLI
+## CLI builder
 
 - html_url : https://github.com/moigagoo/cliar
     - description : Cliar is a Python package to help you create commandline interfaces. It focuses on
@@ -153,11 +158,6 @@
     - name : languagetool-org/languagetool
     - stars : 2746
 
-- html_url : https://github.com/mixu/markdown-styles
-    - lang : html
-    - name : mixu/markdown-styles
-    - stars : 1339
-
 - html_url : https://github.com/QuantStack/ipysheet
     - lang : Python
     - name : QuantStack/ipysheet
@@ -255,13 +255,6 @@
     - stars : 2264
     - tags : crontab, logging, monitor
 
-- html_url : https://github.com/KaTeX/KaTeX
-    - description : KaTeX is a fast, easy-to-use JavaScript library for TeX
-      math rendering on the web.
-    - lang : JavaScript
-    - name : KaTeX/KaTeX
-    - stars : 10451
-    - tags : latex, math, markdown, html, render
 
 - html_url : https://github.com/nalepae/pandarallel
     - description : A simple and efficient tool to parallelize your pandas
@@ -322,15 +315,6 @@
     - name : LaQuay/TDTChannels
     - stars : 250
     - tags : tdt, tv, online, television, channels
-
-- html_url : https://github.com/zaquestion/lab
-    - description : Lab wraps Git or Hub, making it simple to clone, fork, and
-      interact with repositories on GitLab, including seamless workflows for
-      creating merge requests, issues and snippets.
-    - lang : Go
-    - name : zaquestion/lab
-    - stars : 438
-    - tags : gitlab, lab, cli, git
 
 
 - html_url : https://github.com/larryyin/floodnet
@@ -400,6 +384,7 @@
     - stars : 1014
     - tags : monitor, profiling
 
+## Markdown
 
 - html_url : https://github.com/codimd/server
     - description : CodiMD lets you create real-time collaborative markdown
@@ -409,6 +394,78 @@
     - stars : 112
     - tags : markdown, editor, collaborative, share
 
+- html_url : https://github.com/KaTeX/KaTeX
+    - description : KaTeX is a fast, easy-to-use JavaScript library for TeX
+      math rendering on the web.
+    - lang : JavaScript
+    - name : KaTeX/KaTeX
+    - stars : 10451
+    - tags : latex, math, markdown, html, render
+
+- html_url : https://github.com/mixu/markdown-styles
+    - lang : html
+    - name : mixu/markdown-styles
+    - stars : 1339
+
+- html_url : https://github.com/nok/markdown-toc
+    - lang : CoffeeScript
+    - name : nok/markdown-toc
+    - stars : 61
+
+- html_url : https://github.com/madeindjs/Super-Markdown
+    - lang : Python
+    - name : madeindjs/Super-Markdown
+    - stars : 4
+
+- html_url : https://github.com/markdownreveal/markdownreveal
+    - description : This tool allows you to create and visualize presentations
+      with simple Markdown notation. It is based on reveal.js and is able to
+      generate the required HTML and refresh your browser view for easier and
+      faster presentation creation.
+    - lang : Python
+    - name : markdownreveal/markdownreveal
+    - stars : 23
+    - tags : presentation, slides, markdown, html, ppt
+
+- html_url : https://github.com/markdowncss/splendor
+    - lang : html
+    - name : markdowncss/splendor
+    - stars : 68
+
+- html_url : https://github.com/jasonm23/markdown-css-themes
+    - lang : CSS
+    - name : jasonm23/markdown-css-themes
+    - stars : 750
+
+- html_url : https://github.com/fletcher/MultiMarkdown
+    - lang : Perl
+    - name : fletcher/MultiMarkdown
+    - stars : 1006
+
+- html_url : https://github.com/jakebathman/Markdown-Table-Generator
+    - lang : JavaScript
+    - name : jakebathman/Markdown-Table-Generator
+    - stars : 22
+
+- html_url : https://github.com/Zettt/km-markdown-library
+    - lang : Shell
+    - name : Zettt/km-markdown-library
+    - stars : 167
+
+- html_url : https://github.com/michelf/php-markdown
+    - lang : PHP
+    - name : michelf/php-markdown
+    - stars : 2934
+
+- html_url : https://github.com/tylingsoft/markdown-plus
+    - lang : JavaScript
+    - name : tylingsoft/markdown-plus
+    - stars : 2013
+
+- html_url : https://github.com/raivivek/anki-markdown
+    - lang : Python
+    - name : raivivek/anki-markdown
+    - stars : 4
 
 ## Notebooks converters, sync
 
@@ -590,6 +647,36 @@
     - tags : backtrader, plot, addon, finance
 
 ## Documentation
+
+- html_url : https://github.com/spatialaudio/nbsphinx
+    - lang : Python
+    - name : spatialaudio/nbsphinx
+    - stars : 178
+
+- html_url : https://github.com/QuantEcon/sphinxcontrib-jupyter
+    - lang : Python
+    - name : QuantEcon/sphinxcontrib-jupyter
+    - stars : 47
+
+- html_url : https://github.com/pandas-dev/pandas-sphinx-theme
+    - lang : html
+    - name : pandas-dev/pandas-sphinx-theme
+    - stars : 3
+
+- html_url : https://github.com/yoloseem/awesome-sphinxdoc
+    - lang : Python
+    - name : yoloseem/awesome-sphinxdoc
+    - stars : 540
+
+- html_url : https://github.com/mgaitan/sphinxcontrib-mermaid
+    - lang : Python
+    - name : mgaitan/sphinxcontrib-mermaid
+    - stars : 68
+
+- html_url : https://github.com/sphinx-contrib/plantuml
+    - lang : Python
+    - name : sphinx-contrib/plantuml
+    - stars : 16
 
 - html_url : https://github.com/mkdocs/mkdocs
     - lang : Python
@@ -1318,6 +1405,41 @@
 
 ## Code review / Linters / Code quality
 
+### Linter
+
+- html_url : https://github.com/amperser/proselint
+    - lang : Python
+    - name : amperser/proselint
+    - stars : 3072
+
+- html_url : https://github.com/peterjc/flake8-rst-docstrings
+    - lang : Python
+    - name : peterjc/flake8-rst-docstrings
+    - stars : 10
+
+- html_url : https://github.com/gforcada/flake8-builtins
+    - lang : Python
+    - name : gforcada/flake8-builtins
+    - stars : 18
+
+- html_url : https://github.com/elijahandrews/flake8-blind-except
+    - lang : Python
+    - name : elijahandrews/flake8-blind-except
+    - stars : 17
+
+- html_url : https://github.com/AtomLinter/linter-lintr
+    - lang : JavaScript
+    - name : AtomLinter/linter-lintr
+    - stars : 11
+
+### Review
+
+- html_url : https://github.com/rubik/radon
+    - description : Radon is a Python tool that computes various metrics from the source code.
+    - lang : Python
+    - name : rubik/radon
+    - stars : 1018
+
 - html_url : https://github.com/tonybaloney/wily
     - lang : Python
     - name : tonybaloney/wily
@@ -1327,6 +1449,28 @@
     - lang : Go
     - name : reviewdog/reviewdog
     - stars : 906
+
+### Trace
+
+- html_url : https://github.com/ionelmc/python-hunter
+- html_url : https://github.com/korcankaraokcu/PINCE
+- html_url : https://github.com/boris-42/profimp
+
+## Wrappers
+
+- html_url : https://github.com/python-gitlab/python-gitlab
+    - lang : Python
+    - name : python-gitlab/python-gitlab
+    - stars : 877
+
+- html_url : https://github.com/zaquestion/lab
+    - description : Lab wraps Git or Hub, making it simple to clone, fork, and
+      interact with repositories on GitLab, including seamless workflows for
+      creating merge requests, issues and snippets.
+    - lang : Go
+    - name : zaquestion/lab
+    - stars : 438
+    - tags : gitlab, lab, cli, git
 
 ## Unknown
 
@@ -1867,21 +2011,6 @@
     - name : QuantStack/voila
     - stars : 184
 
-- html_url : https://github.com/peterjc/flake8-rst-docstrings
-    - lang : Python
-    - name : peterjc/flake8-rst-docstrings
-    - stars : 10
-
-- html_url : https://github.com/gforcada/flake8-builtins
-    - lang : Python
-    - name : gforcada/flake8-builtins
-    - stars : 18
-
-- html_url : https://github.com/elijahandrews/flake8-blind-except
-    - lang : Python
-    - name : elijahandrews/flake8-blind-except
-    - stars : 17
-
 - html_url : https://github.com/minrk/thebelab
     - lang : JavaScript
     - name : minrk/thebelab
@@ -2224,11 +2353,6 @@
     - lang : null
     - name : k88hudson/git-flight-rules
     - stars : 29811
-
-- html_url : https://github.com/spatialaudio/nbsphinx
-    - lang : Python
-    - name : spatialaudio/nbsphinx
-    - stars : 178
 
 - html_url : https://github.com/QuantEcon/lecture-source-py
     - lang : Python
@@ -3057,11 +3181,6 @@
     - name : EconForge/Smolyak
     - stars : 14
 
-- html_url : https://github.com/QuantEcon/sphinxcontrib-jupyter
-    - lang : Python
-    - name : QuantEcon/sphinxcontrib-jupyter
-    - stars : 47
-
 - html_url : https://github.com/hottbox/hottbox
     - lang : Python
     - name : hottbox/hottbox
@@ -3141,11 +3260,6 @@
         - lang : C++
         - name : jesusfv/Comparison-Programming-Languages-Economics
         - stars : 178
-
-- html_url : https://github.com/pandas-dev/pandas-sphinx-theme
-    - lang : html
-    - name : pandas-dev/pandas-sphinx-theme
-    - stars : 3
 
 - html_url : https://github.com/pik-copan/pyunicorn
     - lang : Python
@@ -3507,11 +3621,6 @@
     - name : vaputa/awesome-cheatsheet
     - stars : 54
 
-- html_url : https://github.com/yoloseem/awesome-sphinxdoc
-    - lang : Python
-    - name : yoloseem/awesome-sphinxdoc
-    - stars : 540
-
 - html_url : https://github.com/progrmoiz/python-snippets
     - lang : Python
     - name : progrmoiz/python-snippets
@@ -3556,11 +3665,6 @@
     - lang : JavaScript
     - name : alexmojaki/birdseye
     - stars : 1144
-
-- html_url : https://github.com/amperser/proselint
-    - lang : Python
-    - name : amperser/proselint
-    - stars : 3072
 
 - html_url : https://github.com/ContextLab/hypertools-paper-notebooks
     - lang : Jupyter Notebook
@@ -3657,20 +3761,10 @@
     - name : jdebacker/CompEcon_Fall17
     - stars : 21
 
-- html_url : https://github.com/nok/markdown-toc
-    - lang : CoffeeScript
-    - name : nok/markdown-toc
-    - stars : 61
-
 - html_url : https://github.com/masdeseiscaracteres/ugarit
     - lang : null
     - name : masdeseiscaracteres/ugarit
     - stars : 2
-
-- html_url : https://github.com/madeindjs/Super-Markdown
-    - lang : Python
-    - name : madeindjs/Super-Markdown
-    - stars : 4
 
 - html_url : https://github.com/matthewgilbert/blotter
     - lang : Python
@@ -3737,11 +3831,6 @@
     - name : DaveBackus/Amazon_Global_Economy
     - stars : 4
 
-- html_url : https://github.com/mgaitan/sphinxcontrib-mermaid
-    - lang : Python
-    - name : mgaitan/sphinxcontrib-mermaid
-    - stars : 68
-
 - html_url : https://github.com/peele/plantuml-preview
     - lang : CoffeeScript
     - name : peele/plantuml-preview
@@ -3756,11 +3845,6 @@
     - lang : Python
     - name : cb109/pyplantuml
     - stars : 17
-
-- html_url : https://github.com/sphinx-contrib/plantuml
-    - lang : Python
-    - name : sphinx-contrib/plantuml
-    - stars : 16
 
 - html_url : https://github.com/zenorocha/alfred-workflows
     - lang : null
@@ -4357,11 +4441,6 @@
     - lang : Python
     - name : unmonoqueteclea/calendar-telegram
     - stars : 74
-
-- html_url : https://github.com/python-gitlab/python-gitlab
-    - lang : Python
-    - name : python-gitlab/python-gitlab
-    - stars : 877
 
 - html_url : https://github.com/ChadFulton/statsmodels
     - lang : Python
@@ -5741,16 +5820,6 @@
     - name : Samreay/ChainConsumer
     - stars : 27
 
-- html_url : https://github.com/markdownreveal/markdownreveal
-    - description : This tool allows you to create and visualize presentations
-      with simple Markdown notation. It is based on reveal.js and is able to
-      generate the required HTML and refresh your browser view for easier and
-      faster presentation creation.
-    - lang : Python
-    - name : markdownreveal/markdownreveal
-    - stars : 23
-    - tags : presentation, slides, markdown, html, ppt
-
 - html_url : https://github.com/drivendata/cookiecutter-data-science
     - lang : Python
     - name : drivendata/cookiecutter-data-science
@@ -6037,16 +6106,6 @@
     - name : Esri/gis-stat-analysis-py-tutor
     - stars : 31
 
-- html_url : https://github.com/markdowncss/splendor
-    - lang : html
-    - name : markdowncss/splendor
-    - stars : 68
-
-- html_url : https://github.com/jasonm23/markdown-css-themes
-    - lang : CSS
-    - name : jasonm23/markdown-css-themes
-    - stars : 750
-
 - html_url : https://github.com/gkudos/qgis-cartodb
     - lang : Python
     - name : gkudos/qgis-cartodb
@@ -6071,11 +6130,6 @@
     - lang : html
     - name : lhunath/bash.academy
     - stars : 796
-
-- html_url : https://github.com/AtomLinter/linter-lintr
-    - lang : JavaScript
-    - name : AtomLinter/linter-lintr
-    - stars : 11
 
 - html_url : https://github.com/nteract/hydrogen
     - lang : JavaScript
@@ -6117,16 +6171,6 @@
     - name : ujjwalkarn/xda
     - stars : 107
 
-- html_url : https://github.com/fletcher/MultiMarkdown
-    - lang : Perl
-    - name : fletcher/MultiMarkdown
-    - stars : 1006
-
-- html_url : https://github.com/jakebathman/Markdown-Table-Generator
-    - lang : JavaScript
-    - name : jakebathman/Markdown-Table-Generator
-    - stars : 22
-
 - html_url : https://github.com/mplewis/csvtomd
     - lang : Python
     - name : mplewis/csvtomd
@@ -6136,11 +6180,6 @@
     - lang : null
     - name : macdrifter/KeyboardMaestroMacros
     - stars : 40
-
-- html_url : https://github.com/Zettt/km-markdown-library
-    - lang : Shell
-    - name : Zettt/km-markdown-library
-    - stars : 167
 
 - html_url : https://github.com/jckantor/ESTM60203
     - lang : Jupyter Notebook
@@ -6252,10 +6291,6 @@
     - name : svaksha/Julia.jl
     - stars : 797
 
-- html_url : https://github.com/fish-shell/fish-shell
-    - lang : Shell
-    - name : fish-shell/fish-shell
-    - stars : 12925
 
 - html_url : https://github.com/joshuaulrich/TTR
     - lang : R
@@ -6487,21 +6522,6 @@
     - lang : CSS
     - name : tabulapdf/tabula
     - stars : 3910
-
-- html_url : https://github.com/michelf/php-markdown
-    - lang : PHP
-    - name : michelf/php-markdown
-    - stars : 2934
-
-- html_url : https://github.com/tylingsoft/markdown-plus
-    - lang : JavaScript
-    - name : tylingsoft/markdown-plus
-    - stars : 2013
-
-- html_url : https://github.com/raivivek/anki-markdown
-    - lang : Python
-    - name : raivivek/anki-markdown
-    - stars : 4
 
 - html_url : https://github.com/dreikanter/sublime-bookmarks
     - lang : null
