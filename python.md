@@ -146,7 +146,7 @@ BLOGGING
 	Maker
 
 * https://github.com/zerasul/blask
-	
+
 	How-to blog
 
 * https://semaphoreci.com/community/tutorials/building-and-testing-an-api-wrapper-in-python

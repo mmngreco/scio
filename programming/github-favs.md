@@ -111,14 +111,6 @@
     - stars : 37143
     - tags : shell, terminal
 
-- html_url : https://github.com/inviwo/inviwo
-    - description : Inviwo is a software framework for rapid visualization
-      prototyping.
-    - lang : C++
-    - name : inviwo/inviwo
-    - stars : 81
-    - tags : design, prototyping, software, development, vizualization
-
 
 - html_url : https://github.com/jhawthorn/fzy
     - description : fzy is a fast, simple fuzzy text selector for the terminal with an advanced scoring algorithm.
@@ -263,21 +255,6 @@
     - stars : 2264
     - tags : crontab, logging, monitor
 
-- html_url : https://github.com/docker/docker-py
-    - description : A Python library for the Docker Engine API.
-    - lang : Python
-    - name : docker/docker-py
-    - stars : 4015
-    - tags : cli, docker, python
-
-- html_url : https://github.com/sdispater/poetry
-    - description : Poetry helps you declare, manage and install dependencies
-      of Python projects, ensuring you have the right stack everywhere.
-    - lang : Python
-    - name : sdispater/poetry
-    - stars : 4419
-    - tags : dependencies, management, libraries, packages, development
-
 - html_url : https://github.com/KaTeX/KaTeX
     - description : KaTeX is a fast, easy-to-use JavaScript library for TeX
       math rendering on the web.
@@ -355,12 +332,6 @@
     - stars : 438
     - tags : gitlab, lab, cli, git
 
-- html_url : https://github.com/cool-RR/PySnooper
-    - description : PySnooper is a poor man's debugger.
-    - lang : Python
-    - name : cool-RR/PySnooper
-    - stars : 10268
-    - tags : debugger, print, logging
 
 - html_url : https://github.com/larryyin/floodnet
     - description : Neural nets that predict flood levels.
@@ -521,6 +492,14 @@
     - stars : 3844
 
 ## Plotting
+
+- html_url : https://github.com/inviwo/inviwo
+    - description : Inviwo is a software framework for rapid visualization
+      prototyping.
+    - lang : C++
+    - name : inviwo/inviwo
+    - stars : 81
+    - tags : design, prototyping, software, development, vizualization
 
 - html_url : https://github.com/ColCarroll/ridge_map
     - description : Ridge plots of ridges.
@@ -1302,6 +1281,32 @@
     - stars : 436
     - tags : pomodoro, timer, app
 
+## Dependencies management
+
+- html_url : https://github.com/docker/docker-py
+    - description : A Python library for the Docker Engine API.
+    - lang : Python
+    - name : docker/docker-py
+    - stars : 4015
+    - tags : cli, docker, python
+
+- html_url : https://github.com/sdispater/poetry
+    - description : Poetry helps you declare, manage and install dependencies
+      of Python projects, ensuring you have the right stack everywhere.
+    - lang : Python
+    - name : sdispater/poetry
+    - stars : 4419
+    - tags : dependencies, management, libraries, packages, development
+
+## Debugger
+
+- html_url : https://github.com/cool-RR/PySnooper
+    - description : PySnooper is a poor man's debugger.
+    - lang : Python
+    - name : cool-RR/PySnooper
+    - stars : 10268
+    - tags : debugger, print, logging
+
 ## termianl tools
 
 - html_url : https://github.com/BurntSushi/ripgrep
@@ -1310,6 +1315,18 @@
     - name : BurntSushi/ripgrep
     - stars : 14507
     - tags : grep, searching, binary
+
+## Code review / Linters / Code quality
+
+- html_url : https://github.com/tonybaloney/wily
+    - lang : Python
+    - name : tonybaloney/wily
+    - stars : 440
+
+- html_url : https://github.com/reviewdog/reviewdog
+    - lang : Go
+    - name : reviewdog/reviewdog
+    - stars : 906
 
 ## Unknown
 
@@ -1534,10 +1551,6 @@
     - name : burnison/tasksync
     - stars : 62
 
-- html_url : https://github.com/reviewdog/reviewdog
-    - lang : Go
-    - name : reviewdog/reviewdog
-    - stars : 906
 
 - html_url : https://github.com/benweet/stackedit
     - lang : JavaScript
