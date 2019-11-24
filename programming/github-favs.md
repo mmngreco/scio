@@ -1362,7 +1362,9 @@
 ## Productivity tools
 
 - html_url : https://github.com/Splode/pomotroid
-    - description : Pomotroid is a simple and configurable Pomodoro timer. It aims to provide a visually-pleasing and reliable way to track productivity using the Pomodoro Technique.
+    - description : Pomotroid is a simple and configurable Pomodoro timer. It
+      aims to provide a visually-pleasing and reliable way to track
+      productivity using the Pomodoro Technique.
     - lang : Vue
     - name : Splode/pomotroid
     - stars : 436
@@ -1385,7 +1387,24 @@
     - stars : 4419
     - tags : dependencies, management, libraries, packages, development
 
-## Debugger
+## termianl tools
+
+- html_url : https://github.com/BurntSushi/ripgrep
+    - description : ripgrep is a line-oriented search tool that recursively
+      searches your current directory for a regex pattern. By default, ripgrep
+      will respect your .gitignore and automatically skip hidden
+      files/directories and binary files. ripgrep has first class support on
+      Windows, macOS and Linux, with binary downloads available for every
+      release. ripgrep is similar to other popular search tools like The Silver
+      Searcher, ack and grep.
+    - lang : Rust
+    - name : BurntSushi/ripgrep
+    - stars : 14507
+    - tags : grep, searching, binary
+
+## Code review / Linters / Code quality
+
+### Debugger
 
 - html_url : https://github.com/cool-RR/PySnooper
     - description : PySnooper is a poor man's debugger.
@@ -1393,17 +1412,6 @@
     - name : cool-RR/PySnooper
     - stars : 10268
     - tags : debugger, print, logging
-
-## termianl tools
-
-- html_url : https://github.com/BurntSushi/ripgrep
-    - description : ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern. By default, ripgrep will respect your .gitignore and automatically skip hidden files/directories and binary files. ripgrep has first class support on Windows, macOS and Linux, with binary downloads available for every release. ripgrep is similar to other popular search tools like The Silver Searcher, ack and grep.
-    - lang : Rust
-    - name : BurntSushi/ripgrep
-    - stars : 14507
-    - tags : grep, searching, binary
-
-## Code review / Linters / Code quality
 
 ### Linter
 
@@ -1488,7 +1496,6 @@
     - lang : Python
     - name : poswald/python-money
     - stars : 99
-
 
 - html_url : https://github.com/rosemichaele/pyshare
     - lang : Python
@@ -1906,12 +1913,9 @@
     - name : jrmontag/STLDecompose
     - stars : 69
 
-- html_url : https://github.com/wtfutil/wtf
-    - lang : Go
-    - name : wtfutil/wtf
-    - stars : 8130
-
 - html_url : https://github.com/nicolargo/glances
+    - description : Glances an Eye on your system. A top/htop alternative for
+	  GNU/Linux, BSD, Mac OS and Windows operating systems.
     - lang : Python
     - name : nicolargo/glances
     - stars : 13426
@@ -1922,9 +1926,16 @@
     - stars : 12344
 
 - html_url : https://github.com/dvorka/hstr
+	- description : Bash and zsh shell history suggest box - easily view,
+	  navigate, search and manage your command history.
     - lang : C
     - name : dvorka/hstr
     - stars : 1679
+
+- html_url : https://github.com/wtfutil/wtf
+    - lang : Go
+    - name : wtfutil/wtf
+    - stars : 8130
 
 - html_url : https://github.com/cheat/cheat
     - lang : Python

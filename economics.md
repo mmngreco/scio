@@ -2,16 +2,16 @@
 
 # ECONSTUFF
 
-- Keynes por Robert Skidelsky https://itun.es/es/yq9vw.l
-- Economics: The User's Guide por Ha-Joon Chang https://itun.es/es/BqCMW.l
-- ESTUDIANTE DE ECONOMÍA BLOG DE ECONOMÍA http://estudiante-economia.blogspot.com.es/
-- Austeridad por Mark Blyth https://itun.es/es/ye-EV.l
+* Keynes por Robert Skidelsky https://itun.es/es/yq9vw.l
+* Economics: The User's Guide por Ha-Joon Chang https://itun.es/es/BqCMW.l
+* ESTUDIANTE DE ECONOMÍA BLOG DE ECONOMÍA http://estudiante-economia.blogspot.com.es/
+* Austeridad por Mark Blyth https://itun.es/es/ye-EV.l
 
 ## datos elecciones
 
-- Primera encuesta de intención de voto de El Español http://datos.elespanol.com/sondeos/encuesta-intencion-voto/
-- La gran brecha por Joseph E. Stiglitz https://itun.es/es/jHb_8.l
-- Economía para el 99% de la población por Ha-Joon Chang https://itun.es/es/WbdI6.l
+* Primera encuesta de intención de voto de El Español http://datos.elespanol.com/sondeos/encuesta-intencion-voto/
+* La gran brecha por Joseph E. Stiglitz https://itun.es/es/jHb_8.l
+* Economía para el 99% de la población por Ha-Joon Chang https://itun.es/es/WbdI6.l
 
 # DATOS GEOGRÁFICOS DE TODO EL MUNDO
 
@@ -65,24 +65,17 @@ Professor of Economics  Director, Center for Equitable Growth  <http://ceg.ber
 
 http://eml.berkeley.edu/~saez/
 
-COURSES AND SEMINARS
+## COURSES AND SEMINARS
 
-Econ 230B: Graduate Public Economics, Spring 2016 (with downloadable lecture notes) <http://elsa.berkeley.edu/~saez/course/course.html> 
-Econ 131: Undergraduate Public Economics, Spring 2015 (with downloadable lecture notes) <http://elsa.berkeley.edu/~saez/course131/course131.html> 
-Econ 231: Public Economics Seminar and Lunch, Spring 2016 (Berkeley Calendar) <http://events.berkeley.edu/index.php/calendar/sn/econ.html?view=summary&timeframe=range&startdate=2016-01-01&enddate=2016-05-31&filter=Secondary%20Event%20Type&filtersel=1060>
+* Econ 230B: Graduate Public Economics, Spring 2016 (with downloadable lecture notes) <http://elsa.berkeley.edu/~saez/course/course.html> 
+* Econ 131: Undergraduate Public Economics, Spring 2015 (with downloadable lecture notes) <http://elsa.berkeley.edu/~saez/course131/course131.html> 
+* Econ 231: Public Economics Seminar and Lunch, Spring 2016 (Berkeley Calendar) <http://events.berkeley.edu/index.php/calendar/sn/econ.html?view=summary&timeframe=range&startdate=2016-01-01&enddate=2016-05-31&filter=Secondary%20Event%20Type&filtersel=1060>
 
-PAPERS BY TOPIC
+## PAPERS BY TOPIC
 
-Income and Wealth Inequality <http://eml.berkeley.edu/~saez/#income> 
-
-Empirical Tax and Public 
-Policy Studies <http://eml.berkeley.edu/~saez/#empirical> 
-
-Macro Business Cycle <http://eml.berkeley.edu/~saez/#macro> 
-
-Optimal Taxation and 
-Transfer Programs <http://eml.berkeley.edu/~saez/#optimal> 
-
-Retirement Savings <http://eml.berkeley.edu/~saez/#retirement> 
-
+* Income and Wealth Inequality <http://eml.berkeley.edu/~saez/#income>
+* Empirical Tax and Public Policy Studies <http://eml.berkeley.edu/~saez/#empirical>
+* Macro Business Cycle <http://eml.berkeley.edu/~saez/#macro>
+* Optimal Taxation and Transfer Programs <http://eml.berkeley.edu/~saez/#optimal>
+* Retirement Savings <http://eml.berkeley.edu/~saez/#retirement>
 * 19 Free Public Data Sets For Your First Data Science Project | SlideRule <https://www.mysliderule.com/blog/free-public-data-sets-data-science-project/?__s=qrfw2wzhdp8shermcjpr>
