@@ -69,13 +69,6 @@
     - stars : 118
     - tags : split, payments, share, expenses, group, app, online
 
-- html_url : https://github.com/dduan/dotfiles
-    - description : configuration files.
-    - lang : Shell
-    - name : dduan/dotfiles
-    - stars : 5
-    - tags : dotfiles, config, system
-
 - html_url : https://github.com/jeffgortmaker/pyblp
     - description : The pyblp package is a Python 3 implementation of routines
       for estimating the demand for differentiated products with BLP-type
@@ -123,13 +116,6 @@
     - name : jhawthorn/fzy
     - stars : 1303
     - tags : searching, binary, grep
-
-- html_url : https://github.com/se7entyse7en/pydockenv
-    - description : pydockenv is a library that aims to give the same experience of having a virtual environment, but backed by Docker! The idea is to make the usage of Docker completely hidden so that even non-expert Docker users can leverage the advantages provided by using it as the underlying engine.
-    - lang : Python
-    - name : se7entyse7en/pydockenv
-    - stars : 399
-    - tags : docker, python, virtualenv, development, tool
 
 - html_url : https://github.com/zquestz/s
     - description : Web search from the terminal. Just opens in your browser.
@@ -1162,21 +1148,6 @@
     - name : Python-en-ciencia/Python-cientifico
     - stars : 8
 
-- html_url : https://github.com/kstaken/dockerfile-examples
-    - lang : Shell
-    - name : kstaken/dockerfile-examples
-    - stars : 734
-
-- html_url : https://github.com/komljen/dockerfile-examples
-    - lang : Shell
-    - name : komljen/dockerfile-examples
-    - stars : 421
-
-- html_url : https://github.com/philschatz/economics-book
-    - lang : html
-    - name : philschatz/economics-book
-    - stars : 13
-
 - html_url : https://github.com/mmckerns/tutmom
     - lang : Jupyter Notebook
     - name : mmckerns/tutmom
@@ -1274,13 +1245,6 @@
     - name : ChristosChristofidis/awesome-deep-learning
     - stars : 12213
 
-- html_url : https://github.com/docker/labs
-    - description : Docker Tutorials and Labs.
-    - lang : PHP
-    - name : docker/labs
-    - stars : 7388
-    - tags : docker, examples, labs, swarm
-
 - html_url : https://github.com/Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
     - lang : null
     - name : Pybonacci/Tutorial-de-matplotlib.pyplot-en-pybonacci
@@ -1371,13 +1335,6 @@
     - tags : pomodoro, timer, app
 
 ## Dependencies management
-
-- html_url : https://github.com/docker/docker-py
-    - description : A Python library for the Docker Engine API.
-    - lang : Python
-    - name : docker/docker-py
-    - stars : 4015
-    - tags : cli, docker, python
 
 - html_url : https://github.com/sdispater/poetry
     - description : Poetry helps you declare, manage and install dependencies
@@ -1479,6 +1436,26 @@
     - name : zaquestion/lab
     - stars : 438
     - tags : gitlab, lab, cli, git
+
+## dotfiles
+
+- html_url : https://github.com/webpro/awesome-dotfiles
+    - lang : null
+    - name : webpro/awesome-dotfiles
+    - stars : 4018
+
+- html_url : https://github.com/sapegin/dotfiles
+    - lang : Shell
+    - name : sapegin/dotfiles
+    - stars : 329
+
+- html_url : https://github.com/dduan/dotfiles
+    - description : configuration files.
+    - lang : Shell
+    - name : dduan/dotfiles
+    - stars : 5
+    - tags : dotfiles, config, system
+
 
 ## Unknown
 
@@ -3582,16 +3559,6 @@
     - name : philips/ghar
     - stars : 261
 
-- html_url : https://github.com/webpro/awesome-dotfiles
-    - lang : null
-    - name : webpro/awesome-dotfiles
-    - stars : 4018
-
-- html_url : https://github.com/sapegin/dotfiles
-    - lang : Shell
-    - name : sapegin/dotfiles
-    - stars : 329
-
 - html_url : https://github.com/b-ryan/powerline-shell
     - lang : Python
     - name : b-ryan/powerline-shell
@@ -3601,16 +3568,6 @@
     - lang : Shell
     - name : riobard/bash-powerline
     - stars : 687
-
-- html_url : https://github.com/wsargent/docker-cheat-sheet
-    - lang : null
-    - name : wsargent/docker-cheat-sheet
-    - stars : 16173
-
-- html_url : https://github.com/veggiemonk/awesome-docker
-    - lang : null
-    - name : veggiemonk/awesome-docker
-    - stars : 14858
 
 - html_url : https://github.com/jaywcjlove/awesome-mac
     - lang : JavaScript
@@ -4443,11 +4400,6 @@
     - name : enaqx/awesome-pentest
     - stars : 9092
 
-- html_url : https://github.com/offensive-security/kali-linux-docker
-    - lang : null
-    - name : offensive-security/kali-linux-docker
-    - stars : 509
-
 - html_url : https://github.com/unmonoqueteclea/calendar-telegram
     - lang : Python
     - name : unmonoqueteclea/calendar-telegram
@@ -4462,11 +4414,6 @@
     - lang : Python
     - name : mgedmin/findimports
     - stars : 43
-
-- html_url : https://github.com/phusion/baseimage-docker
-    - lang : Python
-    - name : phusion/baseimage-docker
-    - stars : 7221
 
 - html_url : https://github.com/bashtage/linearmodels
     - lang : Python
@@ -5194,11 +5141,6 @@
     - name : tsl0922/ttyd
     - stars : 1867
 
-- html_url : https://github.com/jupyter/repo2docker
-    - lang : Python
-    - name : jupyter/repo2docker
-    - stars : 691
-
 - html_url : https://github.com/apple/coremltools
     - lang : Python
     - name : apple/coremltools
@@ -5906,11 +5848,6 @@
     - name : RJT1990/pyflux
     - stars : 1538
 
-- html_url : https://github.com/rothnic/docker-tinyconda
-    - lang : Python
-    - name : rothnic/docker-tinyconda
-    - stars : 42
-
 - html_url : https://github.com/facebook-atom/atom-in-orbit
     - lang : JavaScript
     - name : facebook-atom/atom-in-orbit
@@ -5930,11 +5867,6 @@
     - lang : html
     - name : garethflowers/atom-portable
     - stars : 154
-
-- html_url : https://github.com/Kaggle/docker-python
-    - lang : Python
-    - name : Kaggle/docker-python
-    - stars : 966
 
 - html_url : https://github.com/keras-team/keras
     - lang : Python
