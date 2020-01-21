@@ -1,4 +1,8 @@
-# Online security services
+# Living
+
+* https://www.numbeo.com/cost-of-living/
+
+# security services
 
 * Enter your email to check if it was hacked: https://haveibeenpwned.com/
 * Enter your password to check if it was hacked: https://haveibeenpwned.com/Passwords
@@ -31,3 +35,4 @@ Interactive git flow - https://guides.github.com/introduction/flow/
 # REPL
 
 * https://tio.run/
+
