@@ -19,6 +19,7 @@
 - [![](https://pbs.twimg.com/media/D5GyQufUIAE4M5R?format=jpg&name=small)](https://twitter.com/jakevdp/status/1121873857973870592)
 
 - Tricky Python bug I just hit due to an incorrect mental model of class & instance attributes:
+
   ```python
   class Foo:
     _num_instances = 0

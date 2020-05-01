@@ -1,4 +1,10 @@
-## Monitoring
+## Posts
+
+* [Incremental Docker builds for monolithic codebases](https://cjolowicz.github.io/posts/incremental-docker-builds-for-monolithic-codebases/)
+
+## Projects
+
+### Monitoring
 
 - html_url : https://github.com/jesseduffield/lazydocker
     - lang : docker
@@ -21,7 +27,6 @@
     - name : kstaken/dockerfile-examples
     - stars : 734
 
-
 - html_url : https://github.com/docker/labs
     - description : Docker Tutorials and Labs.
     - lang : PHP
@@ -36,7 +41,7 @@
     - stars : 4015
     - tags : cli, docker, python
 
-## Doc and resources
+### Doc and resources
 
 - html_url : https://github.com/wsargent/docker-cheat-sheet
     - lang : null
@@ -48,7 +53,7 @@
     - name : veggiemonk/awesome-docker
     - stars : 14858
 
-## Images
+### Images
 
 - html_url : https://github.com/offensive-security/kali-linux-docker
     - lang : null

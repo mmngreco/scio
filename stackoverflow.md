@@ -1,4 +1,4 @@
-# StacoOverflow
+# StackOverflow
 
 
 ## How deal with autoenv, conda, zsh and tmux

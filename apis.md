@@ -1,2 +1,4 @@
-https://www.metaweather.com/api/#locationday
-https://www.ventusky.com/
+## Weather
+
+* https://www.metaweather.com/api/#locationday
+* https://www.ventusky.com/

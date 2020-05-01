@@ -1,6 +1,6 @@
-PYTHON
+# PYTHON
 
-AWESOME LIST
+## AWESOME LISTS
 
 * https://github.com/kirang89/pycrumbs
 * https://github.com/svaksha/pythonidae
@@ -8,7 +8,7 @@ AWESOME LIST
 * https://github.com/vinta/awesome-python
 
 
-SERIES TEMPORALES
+## TIME SERIES
 
 - Forecasting
     - Tsfresh - http://tsfresh.readthedocs.io/en/latest/index.html
@@ -16,18 +16,18 @@ SERIES TEMPORALES
 - Manipulate
     - traces - http://traces.readthedocs.io/en/latest/
 
-CELL MAGICS
+## CELL MAGICS
 
 - http://nbviewer.jupyter.org/github/adrn/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb
 
-API RESOURCES 
+## API RESOURCES 
 
-PYTHON
+### Api makers
 
 * http://www.hug.rest/
 * https://github.com/encode/apistar
 
-PROVIDERS
+### PROVIDERS
 
 * alpha vantage - https://www.alphavantage.co
 * quandl - https://www.quandl.com/tools/api
@@ -317,3 +317,240 @@ Jupyter notebook to wp
 Google docs to WP
 
 * https://www.wordable.io/
+
+
+## Dependencies, Linter and code analysis
+
+- html_url : https://github.com/vintasoftware/python-linters-and-code-analysis
+    - description : Python Linters and Code Analysis tools curated list.
+    - name : vintasoftware/python-linters-and-code-analysis
+    - stars : 256
+    - tags : linter, code-analysis, list
+
+- html_url : https://github.com/dephell/dephell
+    - description : DepHell -- project management for Python.
+    - lang : Python
+    - name : dephell/dephell
+    - stars : 389
+    - tags : dependencies, manager, project, packages, libraries
+
+- html_url : https://github.com/rbanffy/pip-chill
+    - description : Like pip freeze but lists only the packages that are not dependencies of installed packages.
+    - lang : Python
+    - name : rbanffy/pip-chill
+    - stars : 58
+    - tags : dependencies, pip, freeze, packages, libraries, requirements
+
+- html_url : https://github.com/ofek/hatch
+    - description : Hatch is a productivity tool designed to make your workflow easier and more efficient, while also reducing the number of other tools you need to know. It aims to make the 90% use cases as pleasant as possible.
+    - lang : Python
+    - name : ofek/hatch
+    - stars : 2002
+    - tags : dependencies, packages, libraries, manager
+
+- html_url : https://github.com/KeziahMoselle/export-github-stars
+    - description : View / Sort / Export your Starred repositories.
+    - lang : Vue
+    - name : KeziahMoselle/export-github-stars
+    - stars : 2
+    - tags : github, favs, stars, repositories, export, online, app
+
+# Code Style
+
+- Error codes :
+    - link : https://pycodestyle.readthedocs.io/en/latest/intro.html#error-codes
+    - description :
+    - tags : doc,pep8,pydoc,python
+
+# Good practices
+
+- Best practices for securely storing API keys : https://www.freecodecamp.org/news/how-to-securely-store-api-keys-4ff3ea19ebda/
+- Best Practices for Maintainers : https://opensource.guide/best-practices/#communicate-your-expectations
+- Code Review Best Practices : https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html
+- Code Review Guidelines for Humans : https://phauer.com/2018/code-review-guidelines/
+- How Code Reviews work at Microsoft : https://www.michaelagreiler.com/code-reviews-at-microsoft-how-to-code-review-at-a-large-software-company/
+
+- How to set up a perfect Python project : https://sourcery.ai/blog/python-best-practices/
+- BOBP for python : https://gist.github.com/sloria/7001839
+- Python Code Quality: Tools & Best Practices : https://realpython.com/python-code-quality/
+- Python Best Practices for More Pythonic Code : https://realpython.com/tutorials/best-practices/
+
+- NPL Best Practices : https://github.com/microsoft/nlp/blob/master/README.md
+- how do i ask : https://stackoverflow.com/help/how-to-ask
+- minimal, reproducible example : https://stackoverflow.com/help/minimal-reproducible-example
+- Recommender systems : https://github.com/microsoft/recommenders
+- How to be a Programmer : https://github.com/braydie/HowToBeAProgrammer
+- The 12 Factor Microservice, documentation and tools for creating microservices: https://openmicroservices.org , https://github.com/microservices/microservice.guide
+
+# Must see pytalks
+
+- https://realpython.com/must-watch-pycon-talks/
+
+
+# Gotchas
+
+- https://docs.python-guide.org/writing/gotchas/
+- https://8thlight.com/blog/shibani-mookerjee/2019/05/07/some-common-gotchas-in-python.html
+- https://github.com/satwikkansal/wtfpython
+
+## Guides
+
+* [Open source guides](https://github.com/github/opensource.guide#readme)
+* [About `__ini__.py`](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
+* [Environment management](https://medium.com/@krishnaregmi/pipenv-vs-virtualenv-vs-conda-environment-3dde3f6869ed)
+* [Understanding conda and pip](https://www.anaconda.com/understanding-conda-and-pip/)
+
+## Learn python:
+
+* [Introduction to Python (Learning Path) – Real Python](https://realpython.com/learning-paths/python3-introduction/)
+* [Perfect Your Python Development Setup (Learning Path) – Real Python](https://realpython.com/learning-paths/perfect-your-python-development-setup/)
+* [Data Science With Python Core Skills (Learning Path) – Real Python](https://realpython.com/learning-paths/data-science-python-core-skills/)
+* [Object-Oriented Programming (OOP) With Python (Learning Path) – Real Python](https://realpython.com/learning-paths/object-oriented-programming-oop-python/)
+* [DevOps With Python (Learning Path) – Real Python](https://realpython.com/learning-paths/python-devops/)
+* [Python Concurrency & Parallel Programming (Learning Path) – Real Python](https://realpython.com/learning-paths/python-concurrency-parallel-programming/)
+
+## Packaging
+
+* [Testing & Packaging](https://hynek.me/articles/testing-packaging/)
+
+
+# Instalando Librerías
+
+La **gestión de librerías** es distinto de la **gestión de entornos**, aunque
+están relacionados.
+
+La instalación depende del **gestor de librerías** que usemos:
+
+* [pip](https://pip.pypa.io/en/stable/user_guide/)
+* [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-pkgs)
+* [pipenv](https://pipenv-fork.readthedocs.io/en/latest/basics.html)
+* [otros](https://github.com/topics/packaging)
+
+Es importante saber que la mayoría de herramientas que gestionan librerías
+(`pipenv`, `dephell`) delegan en `pip` la gestión de librerías python. Por lo
+que en la práctica solo hay dos gestores*:
+
+* [pip](https://pip.pypa.io/en/stable/user_guide/)
+* [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-pkgs)
+
+Nota *: `poetry` es una excepción, no usa `pip` para gesetionar las dependencias.
+
+Tanto `pip` como `conda` pueden trabajar juntos de forma transparente. Podemos
+instalar librerías con `pip` o `conda` en el mismo entorno y todo irá bien.
+Sin embargo, como regla, está bien usar `pip` como opción preferente.
+
+# Instalación desde varias fuentes
+
+Por defecto, la instalación de una librería se hace buscando un el repositorio
+de pip llamado [PyPI](https://pypi.org/) la librería en cuestión. En general a
+este tipo de repositorios tienen el nombre de [index](https://pip.pypa.io/en/stable/reference/pip_wheel/#index-url).
+
+```bash
+pip install pip-install-test
+```
+
+o equivalentemente:
+
+```bash
+pip install pip-install-test --index-url https://pypi.org/simple/
+```
+
+En este caso el index es el mismo que el de por defecto, pero puede verse
+podemos especificar otro distinto.
+
+## desde URL
+
+También podemos instalar desde una url incluyendo delante de la url `git+`,
+es decir, `git+url`, por ejemplo:
+
+```bash
+pip install git+https://github.com/mmngreco/pkgB
+```
+
+## desde Local
+
+Otra forma alternativa es desde nuestro loca, porque o bien hemos creado una
+librería nueva, estamos trabajando sobre una existente o hemos clonado el código
+fuente, un ejemplo:
+
+```bash
+git clone https://github.com/mmngreco/pkgB
+cd pkgB
+pip install .
+```
+
+Dónde `.` significa *ésta carpeta* (es la carpeta donde se encuentra el
+`setup.py`). Conseguimos el mismo resultado si hacemos lo siguiente:
+
+```bash
+git clone https://github.com/mmngreco/pkgB
+pip install ./pkgB
+```
+
+# Instalación estática vs dinámica
+
+Otra cuestión a tener en cuenta en la instalación es si queremos una instalación
+**estática** o **dinámica** (también se le da el nombre de editable o
+desarrollo). La instalación **estática** implica que una copia del código es
+copiada en el directorio conocido por Python
+[`site-packages`](https://stackoverflow.com/a/46071447/3124367). Por ejemplo:
+
+```bash
+git clone https://github.com/mmngreco/pkgB
+pip install ./pkgB
+```
+
+Esto instala de forma estática `pkgB` en el directorio `site-packages`. Como
+consecuencia si estamos trabajando sobre el proyecto `pkgB` en local, y hacemos
+cambios sobre el código, por ejemplo incluimos una nueva función. Con el
+procedimiento de instalación descrito hasta ahora, si hacemos `import pkgB` en
+python el código de `pkgB` será el antiguo y por tanto no tedrá esa nueva función.
+Si queremos usar el nuevo código tendremos que hacer nuevamente:
+
+```bash
+pip install ./pkgB
+```
+
+Esto puede resultar molesto en algunas ocaciones, para ello existe la
+posibilidad de instalar de forma **dinámica** una librería:
+
+```bash
+pip install --editable ./pkgB
+```
+
+o equivalentemente:
+
+```bash
+pip install -e ./pkgB
+```
+
+Con la instalación dinámica conseguimos que cada vez que iniciemos Python
+tengamos la última versión al hacer `import pkgB`.
+
+# Recursos:
+
+* https://realpython.com/what-is-pip/
+* https://www.anaconda.com/understanding-conda-and-pip/
+
+
+# Analysis of source code
+
+* BLOG: Exploring Line Lengths in Python Packages : http://jakevdp.github.io/blog/2017/11/09/exploring-line-lengths-in-python-packages/
+
+# Communication
+
+The first fully-programmable contact center platform.
+- https://www.twilio.com/
+
+# Index
+
+* https://jfrog.com/artifactory/
+* https://github.com/pywharf/pywharf
+* https://github.com/devpi/devpi
+
+# Lingustics
+
+* [Grammatical Framework's Resource Grammar Library (RGL)](https://github.com/GrammaticalFramework/gf-rgl)
+    * [PyconES talk](https://www.youtube.com/watch?v=MXSYUepsA7E&t=1458s)
+
+

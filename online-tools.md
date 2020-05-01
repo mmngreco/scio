@@ -36,3 +36,8 @@ Interactive git flow - https://guides.github.com/introduction/flow/
 
 * https://tio.run/
 
+# Remote hiring
+
+* https://www.youtube.com/watch?v=phfnF-KI3U4
+* https://www.codility.com/
+* https://www.hackerrank.com/
