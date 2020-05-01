@@ -43,3 +43,7 @@ source : http://setosa.io/ev/principal-component-analysis/
 * [RECURRENCE PLOTS::Recurrence Plots, Cross Recurrence Plots, Dynamical Systems, Recurrence Quantification Analysis (RP, CRP, RQA), Recurrence Analysis, Nonlinear Dynamics, Chaos, Time series analysis, Data analysis](http://www.recurrence-plot.tk/)
 * [Recurrence Plot -- from Wolfram MathWorld](http://mathworld.wolfram.com/RecurrencePlot.html)
 * Prehistoric Calculus: Discovering Pi – BetterExplained https://betterexplained.com/articles/prehistoric-calculus-discovering-pi/
+
+# Geek
+
+http://wiki.event-b.org/index.php/Serializing_Mathematical_Formulas

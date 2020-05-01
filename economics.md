@@ -44,6 +44,8 @@
 * [R help - Weighted skewness and curtosis ](http://r.789695.n4.nabble.com/Weighted-skewness-and-curtosis-td4709956.html)
 * [EMMANUEL SAEZ - Professor of Economics  Director, Center for Equitable Growth](http://ceg.berkeley.edu/index.html)
     * http://eml.berkeley.edu/~saez/
+* http://kochanski.org/gpk/code/speechresearch/gmisclib/gmisclib.weighted_percentile-module.html#wtd_median_across
+- html_url : https://github.com/tinybike/weightedstats
 
 ## COURSES AND SEMINARS
 

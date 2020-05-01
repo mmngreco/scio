@@ -18,6 +18,7 @@
 - http://oss-watch.ac.uk/apps/licdiff/
 - https://opensource.org/licenses/category
 - http://www.gnu.org/licenses/license-list.en.html
+- http://www.catb.org/~esr/Licensing-HOWTO.html#choosing
 
 # COMPLIANCE
 

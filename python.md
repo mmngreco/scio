@@ -94,17 +94,14 @@ DEBUGGING
 
 DATA SCIENCE
 
-Courses
-
-* https://github.com/ds-civic-data/course-materials
-* http://new.pybonacci.org/scipy-lecture-notes-ES/
-* 
 
 Viz
 
 * https://github.com/vega/vega-lite
 * ALTAIR - http://vallandingham.me/altair_intro.html?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_175
-* 
+
+
+* A money class for python: https://github.com/vimeo/py-money
 
 Framework
 
@@ -124,7 +121,8 @@ BLOGGING
 * https://github.com/knowsuchagency/hugo_jupyter
 * 
 
-	Markdown to wp
+
+Markdown to wp
 
 * - Código que convierte md to wpm - https://gist.github.com/3079785
 * - Plugin jetpack - https://torquemag.io/2017/11/writing-posts-in-markdown/amp/
@@ -542,7 +540,7 @@ tengamos la última versión al hacer `import pkgB`.
 The first fully-programmable contact center platform.
 - https://www.twilio.com/
 
-# Index
+# Index related
 
 * https://jfrog.com/artifactory/
 * https://github.com/pywharf/pywharf
@@ -559,9 +557,25 @@ The first fully-programmable contact center platform.
 * [Un nuevo peg para Python - Pablo Galindo](https://www.youtube.com/watch?v=dzKQTMWVswA)
 * [Check performance across the history ASV - Tom Augspurger](https://tomaugspurger.github.io/maintaing-performance.html)
 
+# HTTP 
+
+* [mitmproxy is a free and open source interactive HTTPS proxy.](https://mitmproxy.org/)
 
 # Project metrics
 
 * GrimoireLab : https://chaoss.github.io/grimoirelab-tutorial/basics/install.html
     * https://github.com/chaoss/grimoirelab
     * https://www.youtube.com/watch?v=uiC7HJQdaPE
+
+## OOP
+
+[An Introduction to Object-Oriented Programming, 3e](http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/)
+
+## Lear by examples
+
+* Docker in pure python: https://github.com/tonybaloney/mocker
+
+## Wordcloud
+
+* https://towardsdatascience.com/generate-modern-stylish-wordcloud-with-stylecloud-9cbb059696d2
+* https://github.com/mmngreco/wordcloud
