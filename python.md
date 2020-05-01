@@ -554,3 +554,14 @@ The first fully-programmable contact center platform.
     * [PyconES talk](https://www.youtube.com/watch?v=MXSYUepsA7E&t=1458s)
 
 
+# Python core
+
+* [Un nuevo peg para Python - Pablo Galindo](https://www.youtube.com/watch?v=dzKQTMWVswA)
+* [Check performance across the history ASV - Tom Augspurger](https://tomaugspurger.github.io/maintaing-performance.html)
+
+
+# Project metrics
+
+* GrimoireLab : https://chaoss.github.io/grimoirelab-tutorial/basics/install.html
+    * https://github.com/chaoss/grimoirelab
+    * https://www.youtube.com/watch?v=uiC7HJQdaPE
