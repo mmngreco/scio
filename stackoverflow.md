@@ -9,3 +9,9 @@ https://stackoverflow.com/questions/13058578/how-to-prevent-tmux-from-filling-up
 https://github.com/conda/conda/issues/6826
 
 
+How to restart wifi without rebooting
+https://askubuntu.com/questions/26054/how-to-restart-wifi-interface-without-rebooting-it-drops-connection
+
+
+Slow wifi connection
+https://unix.stackexchange.com/questions/404287/wifi-suddenly-extremely-slow

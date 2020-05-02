@@ -19,7 +19,4 @@
 ## Dictionaries
 
 * https://www.oxfordlearnersdictionaries.com/
-* https://cvc.cervantes.es/lengua/refranero/Busqueda.aspx
-
-* Resources:
-    * https://cvc.cervantes.es/Lengua/biblioteca_fraseologica/enlaces.htm
+* [Buscador de refranes](https://cvc.cervantes.es/lengua/refranero/Busqueda.aspx)

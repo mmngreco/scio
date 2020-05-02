@@ -27,21 +27,6 @@
 * http://www.hug.rest/
 * https://github.com/encode/apistar
 
-### PROVIDERS
-
-* alpha vantage - https://www.alphavantage.co
-* quandl - https://www.quandl.com/tools/api
-* cryptocompare - https://www.cryptocompare.com/api/
-* https://blockchain.info/api/exchange_rates_api
-* https://github.com/toddmotto/public-apis#finance
-* https://fixer.io/documentation
-
-AWESOME LIST
-
-* https://github.com/toddmotto/public-apis#finance
-* https://github.com/jdorfman/awesome-json-datasets
-* https://github.com/marmelab/awesome-rest
-
 
 DEBUGGING PYTHON TOOLS FOR DEVELOPERS 
 
@@ -155,11 +140,6 @@ DASHBOARD
 
 https://github.com/HCsoft-RD/shaolin
 
-	Cryptocurrencies API
-
-- [coinapi](https://docs.coinapi.io/?python#historical-data)
-- [coinmarketcap](https://coinmarketcap.com/api/)
-- [cryptocompare](https://www.cryptocompare.com/api/#introduction)
 
 
 	Python packages
@@ -265,35 +245,6 @@ https://github.com/jcabot/UMLtoX
 https://github.com/plantuml/plantuml
 https://github.com/aivarsk/scruffy
 
-# QUANT RESOURCES
-
-* https://github.com/EliteQuant/EliteQuant
-
-## PORTFOLIO
-
-* https://github.com/ZhengyaoJiang/PGPortfolio
-* https://github.com/vermouth1992/drl-portfolio-management
-* https://github.com/wassname/rl-portfolio-management
-* https://github.com/CodeForOwn/WealthManagement
-* https://github.com/dills122/Portfolio-Manager  (TRACKER)
-
-## STATISTICS AND MATHS
-
-* http://gluon.mxnet.io/
-* http://pyro.ai/
-
-
-## TIMESERIES
-
-* https://github.com/datascopeanalytics/traces
-
-## MONTECARLO TREE
-
-https://int8.io/monte-carlo-tree-search-beginners-guide/?utm_campaign=Data%2BElixir&utm_medium=web&utm_source=Data_Elixir_175
-
-## DATA & CODE BLOG
-
-https://data.fivethirtyeight.com
 
 # BLOGGING FOR DEVELOPERS
 
@@ -319,39 +270,20 @@ Google docs to WP
 
 ## Dependencies, Linter and code analysis
 
-- html_url : https://github.com/vintasoftware/python-linters-and-code-analysis
-    - description : Python Linters and Code Analysis tools curated list.
-    - name : vintasoftware/python-linters-and-code-analysis
-    - stars : 256
-    - tags : linter, code-analysis, list
+- description : Python Linters and Code Analysis tools curated list.
+    - html_url : https://github.com/vintasoftware/python-linters-and-code-analysis
 
-- html_url : https://github.com/dephell/dephell
-    - description : DepHell -- project management for Python.
-    - lang : Python
-    - name : dephell/dephell
-    - stars : 389
-    - tags : dependencies, manager, project, packages, libraries
+- description : DepHell -- project management for Python.
+    - html_url : https://github.com/dephell/dephell
 
-- html_url : https://github.com/rbanffy/pip-chill
-    - description : Like pip freeze but lists only the packages that are not dependencies of installed packages.
-    - lang : Python
-    - name : rbanffy/pip-chill
-    - stars : 58
-    - tags : dependencies, pip, freeze, packages, libraries, requirements
+- description : Like pip freeze but lists only the packages that are not dependencies of installed packages.
+    - html_url : https://github.com/rbanffy/pip-chill
 
-- html_url : https://github.com/ofek/hatch
-    - description : Hatch is a productivity tool designed to make your workflow easier and more efficient, while also reducing the number of other tools you need to know. It aims to make the 90% use cases as pleasant as possible.
-    - lang : Python
-    - name : ofek/hatch
-    - stars : 2002
-    - tags : dependencies, packages, libraries, manager
+- description : Hatch is a productivity tool designed to make your workflow easier and more efficient, while also reducing the number of other tools you need to know. It aims to make the 90% use cases as pleasant as possible.
+    - html_url : https://github.com/ofek/hatch
 
-- html_url : https://github.com/KeziahMoselle/export-github-stars
-    - description : View / Sort / Export your Starred repositories.
-    - lang : Vue
-    - name : KeziahMoselle/export-github-stars
-    - stars : 2
-    - tags : github, favs, stars, repositories, export, online, app
+- description : View / Sort / Export your Starred repositories.
+    - html_url : https://github.com/KeziahMoselle/export-github-stars
 
 # Code Style
 
@@ -535,33 +467,29 @@ tengamos la última versión al hacer `import pkgB`.
 
 * BLOG: Exploring Line Lengths in Python Packages : http://jakevdp.github.io/blog/2017/11/09/exploring-line-lengths-in-python-packages/
 
-# Communication
 
-The first fully-programmable contact center platform.
-- https://www.twilio.com/
-
-# Index related
+## Python Index related
 
 * https://jfrog.com/artifactory/
 * https://github.com/pywharf/pywharf
 * https://github.com/devpi/devpi
 
-# Lingustics
+## Lingustics
 
 * [Grammatical Framework's Resource Grammar Library (RGL)](https://github.com/GrammaticalFramework/gf-rgl)
     * [PyconES talk](https://www.youtube.com/watch?v=MXSYUepsA7E&t=1458s)
 
 
-# Python core
+## Python core
 
 * [Un nuevo peg para Python - Pablo Galindo](https://www.youtube.com/watch?v=dzKQTMWVswA)
 * [Check performance across the history ASV - Tom Augspurger](https://tomaugspurger.github.io/maintaing-performance.html)
 
-# HTTP 
+## HTTP 
 
 * [mitmproxy is a free and open source interactive HTTPS proxy.](https://mitmproxy.org/)
 
-# Project metrics
+## Project metrics
 
 * GrimoireLab : https://chaoss.github.io/grimoirelab-tutorial/basics/install.html
     * https://github.com/chaoss/grimoirelab
@@ -571,7 +499,7 @@ The first fully-programmable contact center platform.
 
 [An Introduction to Object-Oriented Programming, 3e](http://web.engr.oregonstate.edu/~budd/Books/oopintro3e/)
 
-## Lear by examples
+## Learning by examples
 
 * Docker in pure python: https://github.com/tonybaloney/mocker
 

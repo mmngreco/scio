@@ -47,3 +47,8 @@ source : http://setosa.io/ev/principal-component-analysis/
 # Geek
 
 http://wiki.event-b.org/index.php/Serializing_Mathematical_Formulas
+
+
+# Graphs
+
+https://www.one-tab.com/page/5z4KE4qtTUyPYSLW4wS5jA

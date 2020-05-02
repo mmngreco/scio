@@ -1742,7 +1742,7 @@
 - [Super-Markdown](https://github.com/madeindjs/Super-Markdown) - a Python library to export a complex Markdown file into a standalone HTML file.
 - [blotter](https://github.com/matthewgilbert/blotter) - A financial blotter for trading FX and Futures
 - [cvxportfolio](https://github.com/cvxgrp/cvxportfolio) - Portfolio optimization and simulation in Python
-- [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with $1 of Hardware
+- [sistine](https://github.com/bijection/sistine) - Turn a MacBook into a Touchscreen with 1 dollar of Hardware
 - [sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) - Mermaid diagrams in yours sphinx powered docs
 - [pyplantuml](https://github.com/cb109/pyplantuml) - :sunflower: Creates UML diagrams from python source code.
 - [plantuml](https://github.com/sphinx-contrib/plantuml) - 
