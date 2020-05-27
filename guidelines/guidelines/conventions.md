@@ -1,3 +1,11 @@
+# Branch naming
+
+Buenas prácticas a la hora de poner nombres a ramas.
+
+* https://nvie.com/posts/a-successful-git-branching-model/
+   * https://gist.github.com/digitaljhelms/4287848
+* https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops#name-your-feature-branches-by-convention
+
 # Como escribir buenos mensajes en los commits
 
 * https://chris.beams.io/posts/git-commit/

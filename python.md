@@ -1,12 +1,15 @@
 # PYTHON
 
-## AWESOME LISTS
 
 * https://github.com/kirang89/pycrumbs
 * https://github.com/svaksha/pythonidae
 * https://github.com/rasbt/python_reference
 * https://github.com/vinta/awesome-python
 
+Versioning conventions:
+
+* https://calver.org/
+* https://semver.org/
 
 ## TIME SERIES
 
