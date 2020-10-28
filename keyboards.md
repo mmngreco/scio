@@ -9,6 +9,30 @@
 
 * https://68keys.io/
 * https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=47
+* https://www.littlekeyboards.com/products/corne-mx-hotswap-kit
+* https://kbdfans.com/
+* https://keyhive.xyz/
+
+
+## Buying keyboards
+
+### Europe
+
+* https://mykeyboard.eu/catalogue/category/leopold/mistel_13/
+* https://geizhals.eu/?cat=kb&xf=7009_mechanical
+* https://www.keyboardco.com/
+* https://www.maxgaming.com/
+* https://caps-unlocked.com/
+
+### Others
+
+* https://mechanicalkeyboards.com/
+* https://candykeys.com/shipping
+* https://www.wasdkeyboards.com/ 
+* https://kbdfans.com/
+* https://pimpmykeyboard.com/
+* https://splitkb.com/
+
 
 ### Add Motor to a desk
 
