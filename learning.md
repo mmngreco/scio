@@ -1,3 +1,7 @@
+---
+title: learn programming
+---
+
 # Learning
 
 ## Programming
@@ -9,7 +13,8 @@
 
 #### games
 
-* [checkio](https://checkio.org/): learn python or javascrip resolving problems.
+* [[project eurler]]
+* [[checkio]]
 * https://codecombat.com/
 * https://www.codingame.com/ide/puzzle/onboarding
 * https://empireofcode.com/

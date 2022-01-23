@@ -1,5 +1,9 @@
-# PYTHON
+---
+title: python
+date: 2022-01-01
+---
 
+# PYTHON
 
 * https://github.com/kirang89/pycrumbs
 * https://github.com/svaksha/pythonidae
@@ -23,7 +27,7 @@ Versioning conventions:
 
 - http://nbviewer.jupyter.org/github/adrn/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb
 
-## API RESOURCES 
+## API RESOURCES
 
 ### Api makers
 
@@ -31,7 +35,7 @@ Versioning conventions:
 * https://github.com/encode/apistar
 
 
-DEBUGGING PYTHON TOOLS FOR DEVELOPERS 
+DEBUGGING PYTHON TOOLS FOR DEVELOPERS
 
 TRAZA - TRACER
 
@@ -61,7 +65,7 @@ PROFILER
 * https://github.com/numba/data_profiler
 * https://github.com/ymichael/cprofilev
 * blog - https://ymichael.com/2014/03/08/profiling-python-with-cprofile.html
-* 
+*
 
 TEST
 
@@ -107,7 +111,7 @@ BLOGGING
 * https://github.com/ChrisRackauckas/JupyterSite
 * https://github.com/dataquestio/jupyter-blog
 * https://github.com/knowsuchagency/hugo_jupyter
-* 
+*
 
 
 Markdown to wp
@@ -488,7 +492,7 @@ tengamos la última versión al hacer `import pkgB`.
 * [Un nuevo peg para Python - Pablo Galindo](https://www.youtube.com/watch?v=dzKQTMWVswA)
 * [Check performance across the history ASV - Tom Augspurger](https://tomaugspurger.github.io/maintaing-performance.html)
 
-## HTTP 
+## HTTP
 
 * [mitmproxy is a free and open source interactive HTTPS proxy.](https://mitmproxy.org/)
 
