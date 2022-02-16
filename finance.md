@@ -1,6 +1,7 @@
 ---
 title: finance
 ---
+
 # Cursos
 
 * Introduction to Finance: Valuation and Investing  | Universidad de Míchigan
@@ -21,8 +22,8 @@ https://www.coursera.org/lecture/finance-value/introduction-to-finance-for-every
 
 ## Cryptocurrencies API
 
-* [coinapi](https://docs.coinapi.io/?python#historical-data)
-* [coinmarketcap](https://coinmarketcap.com/api/)
-* [cryptocompare](https://www.cryptocompare.com/api/#introduction)
+* [coinapi](./coinapi.md)
+* [coinmarketcap](./coinmaketcap.md)
+* [cryptocompare](./cryptocompare.md)
 * https://blockchain.info/api/exchange_rates_api
 * https://github.com/toddmotto/public-apis#finance
