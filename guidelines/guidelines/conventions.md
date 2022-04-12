@@ -58,6 +58,7 @@ Herramientas que permiten seguir el complimiento:
 
 # Estructura `prj/src/prj`
 
-TODO:
-* Add links
 
+* pros of src structure: https://hynek.me/articles/testing-packaging/#src
+* pypa discussion and summary: https://github.com/pypa/packaging.python.org/issues/320#issuecomment-495990983
+* now python recommends src structure: https://packaging.python.org/en/latest/tutorials/packaging-projects/#a-simple-project
