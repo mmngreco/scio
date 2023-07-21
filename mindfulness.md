@@ -1,5 +1,12 @@
 # MINDFULNESS
 
+## Videos
+
+- https://hubermanlab.com/how-meditation-works-and-science-based-effective-meditations/
+- https://hubermanlab.com/dr-sam-harris-using-meditation-to-focus-view-consciousness-and-expand-your-mind/
+
+## Resources
+
 1. Long-term meditators self-induce high-amplitude gamma synchrony during
    mental practice http://www.pnas.org/content/101/46/16369.full	Relación
    positiva entre meditación y  actividad cerebral.
@@ -32,7 +39,7 @@
    vacation in daily life: An exploratory analysis
    https://www.tandfonline.com/doi/full/10.1080/17439760.2019.1610480
 
-# To read
+## To read
 
 * https://www.psypost.org/2019/06/study-15-minutes-of-meditation-associated-with-similar-effects-as-a-day-of-vacation-53798
 * https://www.nature.com/articles/tp2016164
@@ -45,11 +52,4 @@
 * http://www.experientiadocet.com/2013/09/meditacion-autocontrol-y.html?spref=fb
 * https://nadaesgratis.es/anxo-sanchez/los-ciencinazis-el-wifi-y-la-meditacion
 * https://www.sciencedirect.com/science/article/abs/pii/S092549271000288X
-
-
-
-# Videos
-
-
-
 
